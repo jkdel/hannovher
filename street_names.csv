@@ -1,0 +1,4802 @@
+"Street.Name","Probable.Gender"
+"1. Allee",NA
+"2. Allee",NA
+"2. Straße",NA
+"3. Straße Nord",NA
+"3. Straße Süd",NA
+"4. Allee",NA
+"4. Straße",NA
+"4. Straße Messepark",NA
+"5. Allee",NA
+"5. Straße",NA
+"6. Allee",NA
+"6. Allee Ost",NA
+"6. Allee West",NA
+"7. Allee",NA
+"7. Straße Mitte",NA
+"7. Straße Ost",NA
+"7. Straße West",NA
+"Aachener Straße",NA
+"Aalborghof",NA
+"Aarhushof",NA
+"Abbestraße","M"
+"Abelmannstraße","M"
+"Abendseglerweg",NA
+"Achenbachstraße","M"
+"Achtermannweg",NA
+"Ackerstraße",NA
+"Ackerweg",NA
+"Ada-Lessing-Platz","W"
+"Ada-Lessing-Straße","W"
+"Adalbert-Stifter-Straße","M"
+"Adam-Stegerwald-Straße","M"
+"Adelheid-Reinbold-Hof","W"
+"Adelheidstraße","W"
+"Adenauerallee","M"
+"Adickesstraße","F"
+"Adlerstraße",NA
+"Adolf-Emmelmann-Straße","M"
+"Adolf-Ey-Straße","M"
+"Adolf-Falke-Weg","M"
+"Adolf-Lücke-Weg","M"
+"Adolf-Wissel-Straße","M"
+"Adolfinenstraße","W"
+"Adolfstraße","M"
+"Aegidiendamm",NA
+"Aegidienkirchhof",NA
+"Aegidientorplatz",NA
+"Agnes-Asche-Weg","W"
+"Agnes-Hundoegger-Weg","W"
+"Agricolastraße",NA
+"Ahldener Straße",NA
+"Ahlemer Straße",NA
+"Ahlemer Waldstraße",NA
+"Ahltener Straße",NA
+"Ahlter Feld",NA
+"Ahornstraße",NA
+"Ahornweg",NA
+"Ahrbergstraße","M"
+"Ahrensburger Straße",NA
+"Akazienstraße",NA
+"Akazienweg",NA
+"Akeleiweg",NA
+"Alabasterweg",NA
+"Aladinweg","M"
+"Alandweg",NA
+"Albert-Einstein-Straße","M"
+"Albert-Niemann-Straße","M"
+"Albert-Schweitzer-Hof","M"
+"Albert-Schweitzer-Straße","M"
+"Albertstraße","M"
+"Albrecht-Schaeffer-Weg","M"
+"Albrechtstraße","M"
+"Alemannenhof",NA
+"Alemanniaweg",NA
+"Alemannstraße","M"
+"Alexander-Aue-Weg","M"
+"Alexanderstraße","M"
+"Alfred-Bentz-Straße","M"
+"Alfred-Hoehne-Weg","M"
+"Alfred-Müller-Weg","M"
+"Alfred-Nobel-Straße","M"
+"Alfred-Wilke-Straße","M"
+"Alfred-Wilm-Straße","M"
+"Algenweg",NA
+"Algermissener Straße",NA
+"Alleehof",NA
+"Alleestraße",NA
+"Allensteiner Weg",NA
+"Allerbroken",NA
+"Allerstraße",NA
+"Allerweg",NA
+"Allmersstraße","M"
+"Almrothstraße","M"
+"Almstadtweg","M"
+"Alpershof","M"
+"Alt-Engelbostel",NA
+"Alt-Godshorn",NA
+"Alt-Vinnhorst",NA
+"Alte Aue",NA
+"Alte Bemeroder Straße",NA
+"Alte Döhrener Straße",NA
+"Alte Dorfstraße",NA
+"Alte Gärtnerei",NA
+"Alte Gehägestraße",NA
+"Alte Hansastraße",NA
+"Alte Heide",NA
+"Alte Herrenhäuser Straße",NA
+"Alte Kronsbergstraße",NA
+"Alte Ladestraße",NA
+"Alte Landstraße",NA
+"Alte Peiner Heerstraße",NA
+"Alte Rathausstraße",NA
+"Alte Rehre",NA
+"Alte Rennstrecke",NA
+"Alte Schmiede",NA
+"Alte Speicherstraße",NA
+"Alte Stöckener Straße",NA
+"Alte Ziegelei",NA
+"Altenauer Weg",NA
+"Altenbekener Damm",NA
+"Alter Damm",NA
+"Alter Flughafen",NA
+"Alter Gutshof",NA
+"Alter Markt",NA
+"Alter Mühlenkamp",NA
+"Alter Postweg",NA
+"Altes Dorf",NA
+"Altfeierabend Bezirk 16",NA
+"Altmarkhof",NA
+"Alvenslebenstraße","M"
+"Alveser Weg",NA
+"Am Acker",NA
+"Am Ahlemer Holz",NA
+"Am Ahlemer Turm",NA
+"Am Ahltener Weg",NA
+"Am Alten Forsthaus",NA
+"Am Alten Friedhof",NA
+"Am Alten Gehäge",NA
+"Am Alten Saupark",NA
+"Am Alten Sportplatz",NA
+"Am Andreashof","M"
+"Am Annateich","W"
+"Am Archiv",NA
+"Am Asphaltberge",NA
+"Am Bache",NA
+"Am Bahndamm",NA
+"Am Bahnhof",NA
+"Am Beekestrand",NA
+"Am Bergdahle",NA
+"Am Berge",NA
+"Am Birkenwäldchen",NA
+"Am Blauen See",NA
+"Am Bokemahle",NA
+"Am Bolzplatz",NA
+"Am Booker",NA
+"Am Botanischen Schulgarten",NA
+"Am Brabrinke",NA
+"Am Brambusch",NA
+"Am Brinker Hafen",NA
+"Am Brocksberg",NA
+"Am Brombeerhag",NA
+"Am Brückenhaus",NA
+"Am Brunnenplatz",NA
+"Am Büchenberge",NA
+"Am Burggraben",NA
+"Am Castrum",NA
+"Am Damm",NA
+"Am Deichhof",NA
+"Am Denkmal",NA
+"Am Dennenkamp",NA
+"Am Dorfbrunnen",NA
+"Am Dornbusch",NA
+"Am Echteweck",NA
+"Am Edelhofe",NA
+"Am Eichenkamp",NA
+"Am Eikskamp",NA
+"Am Eisenwerk",NA
+"Am Ellernbusch",NA
+"Am Englischen Friedhof",NA
+"Am Ententeich",NA
+"Am Fahrhorstfelde",NA
+"Am Fasanenbusch",NA
+"Am Finkenherd",NA
+"Am Flachsgraben",NA
+"Am Flöth",NA
+"Am Forstkamp",NA
+"Am Freihof",NA
+"Am Friedenstal",NA
+"Am Friedhof",NA
+"Am Fuhrenkampe",NA
+"Am Gänsebusch",NA
+"Am Gehrlskamp",NA
+"Am Gernsschen Acker",NA
+"Am Ginsterbusch",NA
+"Am Gogericht",NA
+"Am Graben",NA
+"Am Graswege",NA
+"Am Großen Garten",NA
+"Am Großen Kampe",NA
+"Am Großmarkt",NA
+"Am Grünen Hagen",NA
+"Am Grünen Ring",NA
+"Am Grünstreifen",NA
+"Am Gut Erichshof",NA
+"Am Gutshof",NA
+"Am Gutspark",NA
+"Am Hafen",NA
+"Am Hagen",NA
+"Am Hammfeld",NA
+"Am Hapkenberge",NA
+"Am Haselbusch",NA
+"Am Hasenberge",NA
+"Am Hasenwinkel",NA
+"Am Hechtkamp",NA
+"Am Heckenweg",NA
+"Am Heidehaus",NA
+"Am Heisterholze",NA
+"Am Hellweg",NA
+"Am Hengstgarten",NA
+"Am Herrenhäuser Bahnhof",NA
+"Am Hinüberschen Garten",NA
+"Am Hirtenbach",NA
+"Am Hochbehälter",NA
+"Am Hohen Brink",NA
+"Am Hohen Hagen",NA
+"Am Hohen Holze",NA
+"Am Hohen Ufer",NA
+"Am Hohmannhof","F"
+"Am Holderbusch",NA
+"Am Holunder",NA
+"Am Holze",NA
+"Am Holzgraben",NA
+"Am Holzhandel",NA
+"Am Hopfengarten",NA
+"Am Hüllfeld",NA
+"Am Ihlpohl",NA
+"Am Ihmeufer",NA
+"Am Immenkampe",NA
+"Am Inselgraben",NA
+"Am Jagdstall",NA
+"Am Johannisbleek","M"
+"Am Judenkirchhof",NA
+"Am Jugendheim",NA
+"Am Jungfernplan","W"
+"Am Kalischacht",NA
+"Am Kalkbruche",NA
+"Am Kalkofen",NA
+"Am Kanal",NA
+"Am Kanonenwall",NA
+"Am Kastanienhof",NA
+"Am Kesselbrink",NA
+"Am Kielenkamp",NA
+"Am Kiffkampe",NA
+"Am Kindergarten",NA
+"Am Kirchfeld",NA
+"Am Kirchhofe",NA
+"Am Kirchhorster See",NA
+"Am Kirchkamp",NA
+"Am Klagesmarkt",NA
+"Am Kläperberg",NA
+"Am Kleikamp",NA
+"Am Kleinen Felde",NA
+"Am Kleinen Teich",NA
+"Am Knick",NA
+"Am Krähenberg",NA
+"Am Laher Graben",NA
+"Am Landwehrgraben",NA
+"Am Langen Berge",NA
+"Am Langen Feld",NA
+"Am Langen Kampe",NA
+"Am Lebersood",NA
+"Am Leineufer",NA
+"Am Leinewehr",NA
+"Am Lienkamp",NA
+"Am Lindener Berge",NA
+"Am Lindener Hafen",NA
+"Am Lindenhofe",NA
+"Am Lindenplatz",NA
+"Am Lister Bad",NA
+"Am Listholze",NA
+"Am Lohgraben",NA
+"Am Marstall",NA
+"Am Mesterwinkel",NA
+"Am Mittelfelde",NA
+"Am Mönckeberg",NA
+"Am Moore",NA
+"Am Moorgraben",NA
+"Am Moritzwinkel",NA
+"Am Mühlenberg",NA
+"Am Mühlenberge",NA
+"Am Mühlenende",NA
+"Am Neuen Acker",NA
+"Am Nordfeld",NA
+"Am Nordhang",NA
+"Am Obstgarten",NA
+"Am Ortfelde",NA
+"Am Papehof",NA
+"Am Pferdemarkt",NA
+"Am Pferdeturm",NA
+"Am Plessenfelde",NA
+"Am Pütt",NA
+"Am Puttenser Felde",NA
+"Am Quellwasser",NA
+"Am Rathaus",NA
+"Am Rathfeld",NA
+"Am Rehrkamp",NA
+"Am Reitplatz",NA
+"Am Ricklinger Holze",NA
+"Am Rischteich",NA
+"Am Rodelberg",NA
+"Am Roggenkamp",NA
+"Am Rohfeld",NA
+"Am Rohgraben",NA
+"Am Ronnenberger Feld",NA
+"Am Rotdorn",NA
+"Am Rotkamp",NA
+"Am Salzgarten",NA
+"Am Sandberge",NA
+"Am Sauerwinkel",NA
+"Am Schafbrinke",NA
+"Am Schapdamm",NA
+"Am Schatzkampe",NA
+"Am Schmuckplatz",NA
+"Am Schnellen Graben",NA
+"Am Schulgarten",NA
+"Am Schulhof",NA
+"Am Schulzentrum",NA
+"Am Schützenplatz",NA
+"Am See",NA
+"Am Seelberg",NA
+"Am Soltekampe",NA
+"Am Sonnenhang",NA
+"Am Sool",NA
+"Am Spargelacker",NA
+"Am Sperrtor",NA
+"Am Spielfeld",NA
+"Am Spielfelde",NA
+"Am Spielplatz",NA
+"Am Sportfeld",NA
+"Am Sportpark",NA
+"Am Sportplatz",NA
+"Am Spritzenhaus",NA
+"Am Stadtrand",NA
+"Am Steg",NA
+"Am Steinbruch",NA
+"Am Steinkamp",NA
+"Am Steinweg",NA
+"Am Stöckener Bach",NA
+"Am Strande",NA
+"Am Südbahnhof",NA
+"Am Südhang",NA
+"Am Südschnellweg",NA
+"Am Sünderkamp",NA
+"Am Tannenkamp",NA
+"Am Taubenfelde",NA
+"Am Teich",NA
+"Am Teiche",NA
+"Am Tiergarten",NA
+"Am Tönniesberg",NA
+"Am TÜV",NA
+"Am Uhrturm",NA
+"Am Urnenfeld",NA
+"Am Velberholz",NA
+"Am Wachholder",NA
+"Am Wacholder",NA
+"Am Wäldchen",NA
+"Am Walde",NA
+"Am Waldesrand",NA
+"Am Waldwinkel",NA
+"Am Wallteich",NA
+"Am Wasser",NA
+"Am Wassergraben",NA
+"Am Wasserturm",NA
+"Am Waterlooplatz",NA
+"Am Wehrberg",NA
+"Am Wehrbusch",NA
+"Am Wehrgraben",NA
+"Am Weingarten",NA
+"Am Weißdorn",NA
+"Am Welfenplatz","F"
+"Am Wesenbeek",NA
+"Am Wiedfeld",NA
+"Am Wiesengarten",NA
+"Am Wiesenhof",NA
+"Am Wildpfad",NA
+"Am Winkelberge",NA
+"Am Wischacker",NA
+"Am Wischhof",NA
+"Am Wöhren",NA
+"Am Wullwinkel",NA
+"Am Zollkrug",NA
+"Amelungshof",NA
+"Amerikanische Roteichenallee",NA
+"Amsel-Allee",NA
+"Amselgasse",NA
+"Amselstraße",NA
+"Amselweg",NA
+"Amtsweg",NA
+"Amundsenweg","M"
+"An den Deichwiesen",NA
+"An den Eichhölzern",NA
+"An den Föhren",NA
+"An den Hilligenwöhren",NA
+"An den Maschwiesen",NA
+"An den Papenstücken",NA
+"An den Rottekuhlen",NA
+"An der Alten Fabrik",NA
+"An der Apostelkirche",NA
+"An der Autobahn",NA
+"An der Bahn",NA
+"An der Baßriede",NA
+"An der Bauerwiese",NA
+"An der Bismarckschule","M"
+"An der Börse",NA
+"An der Brauerei",NA
+"An der Bredenbeeke",NA
+"An der Breiten Wiese",NA
+"An der Christuskirche",NA
+"An der Dornenhecke",NA
+"An der Edder",NA
+"An der Eiche",NA
+"An der Eisenbahn",NA
+"An der Engesohde",NA
+"An der Erlöserkirche",NA
+"An der Feldmark",NA
+"An der Feuerstelle",NA
+"An der Feuerwache",NA
+"An der Feuerwehr",NA
+"An der Furth",NA
+"An der Gartenbauschule",NA
+"An der Graft",NA
+"An der Hahnenburg",NA
+"An der Halde",NA
+"An der Hast",NA
+"An der Johanniskirche","M"
+"An der Kapelle",NA
+"An der Kirche",NA
+"An der Kreisstraße",NA
+"An der Laubhütte",NA
+"An der Lenther Linde",NA
+"An der Linde",NA
+"An der Lindenhecke",NA
+"An der Lister Kirche",NA
+"An der Lutherkirche","M"
+"An der Markuskirche","M"
+"An der Martinskirche","M"
+"An der Masch",NA
+"An der Mühle",NA
+"An der Neuen Bult",NA
+"An der Oberen Marsch",NA
+"An der Pappelstraße",NA
+"An der Quelle",NA
+"An der Questenhorst",NA
+"An der Riehe",NA
+"An der Schafbahn",NA
+"An der Schleuse",NA
+"An der Schule",NA
+"An der Schwarzen Riede",NA
+"An der Silberkuhle",NA
+"An der Steinkuhle",NA
+"An der Strangriede",NA
+"An der Tiefenriede",NA
+"An der Tonkuhle",NA
+"An der Trift",NA
+"An der Universität",NA
+"An der Vogelweide",NA
+"An der Weide",NA
+"An der Weidenkirche",NA
+"An der Wietze",NA
+"An der Wollebahn",NA
+"An Mußmanns Haube","F"
+"An Reineckes Eichen",NA
+"Andersenstraße","M"
+"Andertensche Wiese",NA
+"Anderter Schützenplatz",NA
+"Anderter Straße",NA
+"Andreaestraße","M"
+"Anecampstraße",NA
+"Anemonenweg",NA
+"Angerstraße",NA
+"Anhalter Hof",NA
+"Anna-Kistner-Gang","W"
+"Anna-Klähn-Straße","W"
+"Anna-Siemsen-Weg","W"
+"Anna-Turgonska-Anger","W"
+"Anna-von-Borries-Straße","W"
+"Anna-Zammert-Straße","W"
+"Annabergweg","W"
+"Anne-Frank-Weg","W"
+"Anne-Stache-Allee","W"
+"Annemarie-Hoffmann-Weg","W"
+"Annenstraße","W"
+"Annette-Kolb-Straße","W"
+"Anni-Rath-Weg","W"
+"Anton-Corvinus-Weg","M"
+"Antonia-Agafonowa-Straße","W"
+"Antoniusweg","M"
+"Anzengruberstraße","M"
+"Apenrader Straße",NA
+"Apfelallee",NA
+"Apfelgarten",NA
+"Apfelweg",NA
+"Apollostraße","M"
+"Appelstraße","M"
+"Aprikosenweg",NA
+"Archivstraße",NA
+"Arensborgstraße","M"
+"Arkturhof",NA
+"Armslohweg",NA
+"Arndtstraße","M"
+"Arnikaweg",NA
+"Arnimstraße","M"
+"Arnoldstraße","M"
+"Arnswaldtstraße","F"
+"Arnumer Weg",NA
+"Aronstabweg",NA
+"Arthur-Gerlt-Weg","M"
+"Arthur-Menge-Ufer","M"
+"Arthur-von-Lenthe-Straße","M"
+"Aschendorfer Straße",NA
+"Ashwin-von-Roden-Weg","M"
+"Aspelweg",NA
+"Asplundweg","M"
+"Asseburgstraße","F"
+"Asseweg",NA
+"Asternplatz",NA
+"Asternstraße",NA
+"Asternweg",NA
+"Astrid-Lindgren-Straße","W"
+"Atelierblick",NA
+"Atlashof","M"
+"Aubryweg","M"
+"Auerhahnhof",NA
+"Auestraße",NA
+"Auf dem Brinke",NA
+"Auf dem Dorn",NA
+"Auf dem Emmerberge",NA
+"Auf dem Gipsberg",NA
+"Auf dem Grethel",NA
+"Auf dem Hagen",NA
+"Auf dem Hollen",NA
+"Auf dem Kampe",NA
+"Auf dem Kronsberg",NA
+"Auf dem Lärchenberge",NA
+"Auf dem Limbrinke",NA
+"Auf dem Loh",NA
+"Auf dem Rade",NA
+"Auf dem Rohe",NA
+"Auf dem Sandberg",NA
+"Auf dem Schacht",NA
+"Auf dem Sohlorte",NA
+"Auf dem Stehen",NA
+"Auf den Kirchstücken",NA
+"Auf den Kräken",NA
+"Auf der Allmende",NA
+"Auf der Borke",NA
+"Auf der Dehne",NA
+"Auf der Heide",NA
+"Auf der Höchte",NA
+"Auf der Höhe",NA
+"Auf der Horst",NA
+"Auf der Klappenburg",NA
+"Auf der Kuhbühre",NA
+"Auf der Papenburg",NA
+"Auf der Pferdekoppel",NA
+"Auf der Spannriede",NA
+"Auf der Worth",NA
+"Aufhäuserstraße","M"
+"Augsburger Straße",NA
+"August-Bebel-Straße","M"
+"August-Borsig-Straße","M"
+"August-Holweg-Platz","M"
+"August-Madsack-Straße","M"
+"August-Mundt-Weg","M"
+"August-Schaper-Straße","M"
+"Augustabrücke","W"
+"Auguste-Ravenstein-Weg","W"
+"Augustenstraße","W"
+"Augustinerweg","M"
+"Aussiger Wende",NA
+"Auwiese",NA
+"Azaleenweg",NA
+"Bachstelzenring",NA
+"Bachstelzenweg",NA
+"Bachstraße","M"
+"Bäckerstraße",NA
+"Bäckerweg",NA
+"Backhausenweg",NA
+"Backhausstraße",NA
+"Bad Salzbrunner Straße",NA
+"Badenstedter Marktplatz",NA
+"Badenstedter Straße",NA
+"Bahndamm",NA
+"Bahnhofsplatz",NA
+"Bahnhofstraße",NA
+"Bahnriehe",NA
+"Bahnstrift",NA
+"Bahnweg",NA
+"Baierweg",NA
+"Bailleuxweg","M"
+"Baldeniusstraße","M"
+"Baldurstraße","M"
+"Balkehof","F"
+"Ballhofstraße",NA
+"Bandelstraße","M"
+"Bangemannweg","M"
+"Barbara-Boehme-Weg","W"
+"Barbarastraße","W"
+"Bardowicker Straße",NA
+"Bärenbleek",NA
+"Bärengang",NA
+"Bärenhof",NA
+"Bargeworth",NA
+"Baringstraße","M"
+"Barlachhof","M"
+"Barlachweg",NA
+"Barnstorfplatz",NA
+"Barsinghäuser Straße",NA
+"Bartold-Knaust-Straße","M"
+"Bartweg",NA
+"Basaltweg",NA
+"Basselthof",NA
+"Baßriede",NA
+"Bäteweg",NA
+"Bauboulevard",NA
+"Bauernwiesenweg",NA
+"Bauleweg","M"
+"Baumbachstraße","M"
+"Baumgarten","M"
+"Baumgartenstraße","M"
+"Baumgarteweg",NA
+"Baumhaselweg",NA
+"Baumschulenallee",NA
+"Baumstraße",NA
+"Bautzener Hof",NA
+"Bauvereinsweg",NA
+"Bauweg",NA
+"Baxmannweg","M"
+"Bayernstraße",NA
+"Bebelstraße","M"
+"Beckerwiese",NA
+"Beckmannhof","M"
+"Beckstraße","M"
+"Beekehof",NA
+"Beekestraße",NA
+"Beerenstraße",NA
+"Beethovenring","M"
+"Beethovenstraße","M"
+"Behaimweg","M"
+"Behmerothsfeld",NA
+"Behnsenstraße","M"
+"Behnstraße","M"
+"Behringweg","M"
+"Bei der Mühle",NA
+"Beiersdorfstraße",NA
+"Bella Vista",NA
+"Bellstieg",NA
+"Bemeroder Anger",NA
+"Bemeroder Straße",NA
+"Ben-Pon-Platz","M"
+"Bendixweg","F"
+"Beneckeallee","M"
+"Bennostraße","M"
+"Bentheimer Straße",NA
+"Benther Straße",NA
+"Benther-Berg-Straße",NA
+"Benther-Berg-Weg",NA
+"Benzweg",NA
+"Berckhusenstraße","M"
+"Berdingstraße","M"
+"Bergener Straße",NA
+"Bergfeld",NA
+"Bergfeldstraße",NA
+"Berggarten",NA
+"Berggartenstraße",NA
+"Berghornfeld",NA
+"Bergiusstraße","M"
+"Bergkammstraße",NA
+"Bergmannstraße","M"
+"Bergstraße",NA
+"Bergwiesen",NA
+"Berkelmannstraße","F"
+"Berkelmannweg","F"
+"Berkowitzweg","M"
+"Berlageweg","M"
+"Berliner Allee",NA
+"Berliner Platz",NA
+"Berliner Straße",NA
+"Bernadotteallee","M"
+"Bernardisstraße","M"
+"Bernburger Straße",NA
+"Bernd Wiedemann Allee","M"
+"Bernd-Strauch-Weg","M"
+"Bernhard-Caspar-Straße","M"
+"Bernhard-Jördens-Weg","M"
+"Bernhard-Malkmus-Straße","M"
+"Bernhard-Rehkopf-Straße","M"
+"Bernstorffweg","M"
+"Bernstraße","M"
+"Bernwardstraße","M"
+"Berta-Makowski-Anger","W"
+"Berta-Weiß-Weg","W"
+"Bertastraße","W"
+"Bertha-von-Suttner-Platz","W"
+"Berthold-Lange-Straße","M"
+"Bertramstraße","M"
+"Besselhof",NA
+"Besselstraße","M"
+"Bessemerstraße","M"
+"Bethlehemplatz",NA
+"Bethlehemstraße",NA
+"Bette-Graham-Straße","W"
+"Bettenser Garten",NA
+"Bettenser Straße",NA
+"Bettenser Weg",NA
+"Beuermannstraße","M"
+"Beulshausenweg","M"
+"Beuthener Straße",NA
+"Bevenser Weg",NA
+"Bezirk 01",NA
+"Bezirk 1",NA
+"Bezirk 11",NA
+"Bezirk 2",NA
+"Bezirk 3",NA
+"Bezirk 4",NA
+"Bezirk 5",NA
+"Bezirk 6",NA
+"Bezirk 7",NA
+"Bezirk 8",NA
+"Bidonisstraße","M"
+"Bienenriede",NA
+"Bienenweide",NA
+"Biener Busch",NA
+"Bierweg",NA
+"Biesterstraße","F"
+"Billungstraße","M"
+"Billweg",NA
+"Bilmer Straße",NA
+"Bindingweg","M"
+"Binsenweg",NA
+"Birkenallee",NA
+"Birkengrundweg",NA
+"Birkenkamp",NA
+"Birkenstraße",NA
+"Birkenweg",NA
+"Birkhahnhof",NA
+"Birnengarten",NA
+"Birnenweg",NA
+"Bischof-Volkmar-Weg","M"
+"Bischof-von-Ketteler-Straße","M"
+"Bischofsholer Damm",NA
+"Bismarckstraße","M"
+"Bispinger Weg",NA
+"Bissendorfer Straße",NA
+"Blantyreweg",NA
+"Bleekstraße",NA
+"Bleichenstraße",NA
+"Bleidornstraße","M"
+"Bleßhuhnweg",NA
+"Blindenweg",NA
+"Blocksberg",NA
+"Blomeweg","F"
+"Blücherstraße","M"
+"Blumenauer Straße",NA
+"Blumengang",NA
+"Blumenhagenstraße","M"
+"Blumenstraße","F"
+"Blumenweg",NA
+"Blumestraße",NA
+"Blumhardthof","M"
+"Blumhardtstraße","M"
+"Blütenweg",NA
+"Boberweg",NA
+"Böckeriethe",NA
+"Böckerstraße","M"
+"Böcklinplatz","M"
+"Bockmerholzstraße",NA
+"Bocksbartweg",NA
+"Bocksdorn",NA
+"Bödekerstraße","M"
+"Bodenstabstraße","M"
+"Bodenstedtstraße","M"
+"Bodestraße","M"
+"Bodetalweg",NA
+"Bodeweg",NA
+"Boelckestraße","M"
+"Bogenstraße","M"
+"Böhlaustraße","W"
+"Bohlendamm",NA
+"Bohlenweg",NA
+"Bohlwiese",NA
+"Böhmerstraße","M"
+"Böhmerwaldstraße",NA
+"Böhmeweg",NA
+"Böhmsche Wiesen",NA
+"Bohnhorststraße","M"
+"Boiestraße","M"
+"Bollnäser Straße",NA
+"Bölschestraße","M"
+"Bolzumer Straße",NA
+"Bömelburgstraße","M"
+"Bomgarstraße",NA
+"Bomhauerstraße","M"
+"Bonatzweg","M"
+"Bonhoefferstraße","M"
+"Bonifatiusplatz","M"
+"Bonifatiusweg","M"
+"Bonner Straße",NA
+"Borchersstraße","M"
+"Borgentrickstraße","M"
+"Börgerstraße",NA
+"Borglingstraße","F"
+"Börie",NA
+"Borkumer Straße",NA
+"Borkwinkel",NA
+"Bormannweg","F"
+"Börnestraße","M"
+"Bornhof","M"
+"Bornstraße",NA
+"Bornumer Straße",NA
+"Bornumer Weg",NA
+"Borriesstraße","M"
+"Borsigstraße","M"
+"Borsigweg",NA
+"Börsmannstraße","M"
+"Borstelmannstraße","M"
+"Boschhof","M"
+"Boschstraße","M"
+"Boschweg","M"
+"Bösenbergweg",NA
+"Boßdorfstraße","M"
+"Bothfelder Anger",NA
+"Bothfelder Kirchweg",NA
+"Bothfelder Straße",NA
+"Bothmerstraße","F"
+"Böttcherstraße","M"
+"Boulevard",NA
+"Boulevard de Montreal",NA
+"Boulevard der EU",NA
+"Boxbergweg",NA
+"Bozener Straße",NA
+"Braaschweg","M"
+"Brabeckstraße","M"
+"Brachvogelweg",NA
+"Brackebuschstraße","M"
+"Brahmsstraße","M"
+"Brahmsweg","M"
+"Braker Eck",NA
+"Brakestraße",NA
+"Brandenburger Straße",NA
+"Brandensteinstraße","M"
+"Brandestraße","M"
+"Brandmeierstraße","M"
+"Brandriede",NA
+"Brandstraße",NA
+"Brauhofstraße",NA
+"Braunstraße","M"
+"Bredenbecker Straße",NA
+"Bregenzer Straße",NA
+"Brehmhof",NA
+"Brehmstraße","M"
+"Breimerwinkel",NA
+"Breite Straße",NA
+"Breite-Riede",NA
+"Breitentrift",NA
+"Breithauptstraße","M"
+"Breitzkeweg","M"
+"Brelinger Hof",NA
+"Bremer Damm",NA
+"Bremer Straße",NA
+"Brennenhorst",NA
+"Brennereiweg",NA
+"Brentanostraße","M"
+"Breslauer Platz",NA
+"Breslauer Straße",NA
+"Brieger Straße",NA
+"Brieger Weg",NA
+"Brinckmanstraße","M"
+"Brinker Straße",NA
+"Brinkholt",NA
+"Brinkwiese",NA
+"Brinkwiesen",NA
+"Bristoler Straße",NA
+"Brockenweg",NA
+"Brockfeld",NA
+"Brombeerknick",NA
+"Brombeerweg",NA
+"Bromberger Straße",NA
+"Bronsartstraße","M"
+"Broyhanstraße","M"
+"Bruchgraben",NA
+"Bruchmeisterallee",NA
+"Bruchstraße",NA
+"Brücke Bischofshol",NA
+"Brücke für Toleranz und Verständigung",NA
+"Brucknerring","M"
+"Brucknerweg","M"
+"Brückstraße",NA
+"Brüder-Grimm-Weg","M"
+"Brüderstraße",NA
+"Brüggemannhof","M"
+"Brühlstraße",NA
+"Brunekamp","M"
+"Brunhildenweg","W"
+"Brunnenstieg",NA
+"Brunnenstraße",NA
+"Bruno-Rappel-Weg","M"
+"Bruno-Valentin-Weg","M"
+"Brunoweg","M"
+"Brüsseler Straße",NA
+"Bucheckerweg",NA
+"Buchengarten",NA
+"Buchenhain",NA
+"Buchenkamp",NA
+"Buchenplan",NA
+"Buchenweg",NA
+"Buchfinkstieg",NA
+"Buchholzer Mühlenhof",NA
+"Buchholzer Straße",NA
+"Buchnerstraße","M"
+"Buchweizenfeld",NA
+"Bückeburger Allee",NA
+"Buddeweg","M"
+"Bugenhagenstraße","M"
+"Bugstraße",NA
+"Bülowstraße","M"
+"Bultstraße",NA
+"Bummelgang",NA
+"Bungerns Hof",NA
+"Bunnenbergstraße","M"
+"Bunsenstraße","M"
+"Büntefeldstraße",NA
+"Bünteroder Straße",NA
+"Bünteweg",NA
+"Bunzlauer Straße",NA
+"Bunzlauer Weg",NA
+"Burckhardtstraße","M"
+"Burgdorfer Damm",NA
+"Bürgemeister-Röber-Platz","M"
+"Bürgermeister-Bormann-Weg","M"
+"Bürgermeister-Ewert-Straße","M"
+"Bürgermeister-Fink-Straße","M"
+"Bürgermeister-Köhler-Straße","M"
+"Bürgermeister-Pott-Weg","M"
+"Bürgermeister-Stümpel-Weg","M"
+"Bürgerstraße","M"
+"Burgstraße",NA
+"Burgundische Straße",NA
+"Burgwedeler Straße",NA
+"Burgweg",NA
+"Bürogasse",NA
+"Buschkamp",NA
+"Buschriede",NA
+"Bussardhorst",NA
+"Bussardring",NA
+"Bussardweg",NA
+"Bussestraße","M"
+"Bussilliatweg",NA
+"Büssingweg","M"
+"Butanstraße","M"
+"Büteroder Weg",NA
+"Bütersworthstraße",NA
+"Büttnerstraße","M"
+"Buxusgang",NA
+"Cäcilienstraße","W"
+"Calenberger Straße",NA
+"Callinstraße","M"
+"Cambridgeweg","M"
+"Campingplatz Birkensee",NA
+"Canarisweg","M"
+"Carl-Buderus-Straße","M"
+"Carl-Hornemann-Straße","M"
+"Carl-Loges-Straße","M"
+"Carl-Neuberg-Straße","M"
+"Carl-von-Ossietzky-Weg","M"
+"Carl-Zeiss-Straße","M"
+"Carlo-Schmid-Allee","M"
+"Caroline-Herschel Straße","W"
+"Caroline-Herschel-Straße","W"
+"Caroline-von-Bremer-Straße","W"
+"CC Arcaden",NA
+"Cécile-Huk-Ring","W"
+"Celler Straße",NA
+"Celler Weg",NA
+"Chamissostraße","M"
+"Charlottenstraße","W"
+"Chemnitzer Straße",NA
+"Cheruskerweg",NA
+"Chicago Lane",NA
+"Christel-Keppler-Weg","M"
+"Christian-Flemes-Weg","M"
+"Christian-Wolff-Weg","M"
+"Christianplatz","M"
+"Christine-Hardt-Straße","W"
+"Cillienstraße","M"
+"Clara-Immerwahr-Straße","W"
+"Clara-Zetkin-Weg","W"
+"Claudiusstraße","M"
+"Clausewitzstraße","M"
+"Clausthaler Weg",NA
+"Clemensstraße","M"
+"Clemenswerther Weg",NA
+"Clusberg",NA
+"Colmarstraße",NA
+"Colshornweg",NA
+"Comeniusstraße","M"
+"Conrad-Bube-Weg","M"
+"Constantinstraße","M"
+"Cook-Passage",NA
+"Cordweg","M"
+"Corinthstraße","M"
+"Corneliusstraße","M"
+"Corrensweg","M"
+"Corvinusweg","M"
+"Cousteaustraße","M"
+"Cranachstraße","M"
+"Cranzer Weg",NA
+"Crappiusstraße","M"
+"Crednerhof","M"
+"Croppstraße","F"
+"Crusiusstraße","M"
+"Crystallstraße",NA
+"Culemannstraße","M"
+"Culemeyertrift","M"
+"Curiehof","WM"
+"Cuxhavener Hof",NA
+"Dachenhausenstraße","M"
+"Dachsgang",NA
+"Dachstrift",NA
+"Dachsweg",NA
+"Dahlenburger Weg",NA
+"Dahlgrünweg","W"
+"Dahlienallee",NA
+"Dahlienweg",NA
+"Dahnstraße","M"
+"Daimlerstraße","M"
+"Daimlerweg","M"
+"Dalemstraße","F"
+"Damaschkestraße","M"
+"Dammannstraße","M"
+"Dammstraße",NA
+"Dangersstraße","M"
+"Dannenbergstraße","F"
+"Danziger Straße",NA
+"Darwinstraße","M"
+"Das Mühlenfeld",NA
+"Däumlingweg",NA
+"Davenstedter Holz",NA
+"Davenstedter Markt",NA
+"Davenstedter Platz",NA
+"Davenstedter Straße",NA
+"DB-Betriebstunnel (Posttunnel)",NA
+"De-Haën-Platz","M"
+"De-Vries-Hof","M"
+"Debberode",NA
+"Debberoder Straße",NA
+"Deelgrafen",NA
+"Defreggerstraße","M"
+"Degenerweg","W"
+"Deichmannstraße","M"
+"Deisterblick",NA
+"Deisterplatz",NA
+"Deisterstraße",NA
+"Deisterweg",NA
+"Deitersweg","F"
+"Delpweg","M"
+"Demminer Straße",NA
+"Denickeweg","W"
+"Dennewitzstraße",NA
+"Denzelkamp",NA
+"Derfflingerstraße","M"
+"Desbrocksheidering",NA
+"Desbrocksriede",NA
+"Dessauerstraße",NA
+"Detmoldstraße","M"
+"Deurag-Nerag-Straße",NA
+"Deveser Straße",NA
+"Devonweg",NA
+"Devrientstraße","M"
+"DHL",NA
+"Dicken Riede",NA
+"Dickensstraße","M"
+"Die blaue Brücke",NA
+"Die Gasse",NA
+"Dieckbornstraße",NA
+"Dieckmannstraße","M"
+"Diedenhofener Straße",NA
+"Dienemannhof","M"
+"Dieselstraße","M"
+"Dieselweg","M"
+"Diesterwegstraße","M"
+"Dieter-Liedtke-Straße","M"
+"Dieter-Oesterlen-Weg","M"
+"Dieterichsstraße","M"
+"Dietrich-Bonhoeffer-Straße","M"
+"Dingelstedtstraße","M"
+"Distelborn",NA
+"Distelkamp",NA
+"Ditterker Straße",NA
+"Dittmerstraße","M"
+"Döbbeckehof","M"
+"Döbbeckestraße","F"
+"Doggerweg",NA
+"Dohmeyers Weg","M"
+"Dohnanyiweg","M"
+"Döhrbruch",NA
+"Döhrener Masch",NA
+"Döhrener Mühle",NA
+"Döhrener Straße",NA
+"Dölfesweg","F"
+"Dollartweg",NA
+"Dolomitweg",NA
+"Domagkstraße","M"
+"Domagkweg","M"
+"Dömitzer Straße",NA
+"Dömitzer Weg",NA
+"Dompfaffweg",NA
+"Don-Bosco-Weg","M"
+"Donarweg","M"
+"Donaustraße",NA
+"Dönekenweg",NA
+"Döpkes Hof",NA
+"Dopmeyerhof","M"
+"Dora-Gerson-Straße","W"
+"Dorfmarkhof",NA
+"Dorfstraße",NA
+"Dorle-und-Albert-Heuer-Weg","WM"
+"Dormannstraße","F"
+"Dörnbergstraße","M"
+"Dornhorn",NA
+"Dornierstraße",NA
+"Dorninge",NA
+"Dornröschenweg","W"
+"Dorothea-Flebbe-Weg","W"
+"Dorotheenstraße","W"
+"Dorpater Straße",NA
+"Dörpefeld",NA
+"Dörriesplatz","M"
+"Dörrieweg","W"
+"Drachenfeld",NA
+"Dragonerstraße","M"
+"Drei Kronen",NA
+"Dreibirkenweg",NA
+"Dreihornstraße",NA
+"Dreikreuzenstraße",NA
+"Drenkriede",NA
+"Dresdener Straße",NA
+"Drewenzweg",NA
+"Dreyerstraße","M"
+"Dribusch",NA
+"Drive Inn",NA
+"Droehnenstraße",NA
+"Drossel-Allee",NA
+"Drosselbartweg",NA
+"Drosselgang",NA
+"Drosselgasse",NA
+"Drosselweg",NA
+"Droste-Hülshoff-Weg","W"
+"Drostestr","M"
+"Drostestraße","M"
+"Duclairstraße",NA
+"Dudweilerstraße",NA
+"Duisburger Straße",NA
+"Dunantstraße","M"
+"Dünenweg",NA
+"Dunkelberggang","F"
+"Dunkerstraße",NA
+"Dünnenriede",NA
+"Dürerstraße","M"
+"Dürerweg","M"
+"Düsternstraße",NA
+"Düsterstraße",NA
+"Duvehof","M"
+"Ebelingstraße","M"
+"Ebellstraße","M"
+"Ebellstraße 66A-D","M"
+"Ebereschenweg",NA
+"Eberswalder Straße",NA
+"Ebertstraße",NA
+"Ebhardtstraße","M"
+"Ebstorfer Weg",NA
+"Echterdinger Hof",NA
+"Echternfeld",NA
+"Echterngrund",NA
+"Eckenerstraße","M"
+"Eckermannstraße","M"
+"Eckernkamp",NA
+"Eckerstraße",NA
+"Eckerweg",NA
+"Edderwiesen",NA
+"Edelerstraße",NA
+"Eden-Passage",NA
+"Edenstraße","M"
+"Edgar-Scheibe-Straße","M"
+"Edingeroder Weg",NA
+"Edisonweg","M"
+"Edith-Stein-Straße","W"
+"Eduardo-Vargas-Straße","M"
+"Edwin-Oppler-Weg","M"
+"Efeuhof",NA
+"Egerweg",NA
+"Egestorffstraße","M"
+"Eggewiese",NA
+"Egon-Franke-Weg","M"
+"Ehlershausen",NA
+"Ehlersstraße",NA
+"Ehlvershof","F"
+"Ehlwiesenfeld",NA
+"Ehrenpreisweg",NA
+"Ehrfeldstraße",NA
+"Ehrhartstraße","M"
+"Ehrlichstraße",NA
+"Ehrlichweg","M"
+"Eibenstraße",NA
+"Eibenweg",NA
+"Eichbaumweg",NA
+"Eichelkampstraße",NA
+"Eichenbrink",NA
+"Eichendorffstraße","M"
+"Eichenfeldstraße",NA
+"Eichenkamp",NA
+"Eichenplan",NA
+"Eichenweg",NA
+"Eichhörnchensteg",NA
+"Eichhörnchenweg",NA
+"Eichsfelder Straße",NA
+"Eichstraße","M"
+"Eickenhof",NA
+"Eickenriede",NA
+"Eiderweg",NA
+"Eifelweg",NA
+"Eilersweg","M"
+"Eilser Masch",NA
+"Eimbeckhäuser Straße",NA
+"Einbecker Straße",NA
+"Einemstraße","M"
+"Einsteinstraße","M"
+"Eintrachtweg",NA
+"Eiselenweg",NA
+"Eisenacher Weg",NA
+"Eisenbahnlängsweg",NA
+"Eisenbartweg","M"
+"Eisteichweg",NA
+"Eisvogelring",NA
+"Elbestraße",NA
+"Elbeweg",NA
+"Elbinger Straße",NA
+"Elbinger Weg",NA
+"Eleonorenstraße","W"
+"Elfenweg",NA
+"Elfriede-Döler-Weg","W"
+"Elfriede-Paul-Allee","W"
+"Elgarstraße","M"
+"Elisabeth-Frucht-Straße","W"
+"Elisabeth-Granier-Hof","W"
+"Elisabeth-Hoffmeier-Weg","W"
+"Elisabeth-Müller-Platz","W"
+"Elisabeth-Selbert-Brücke","W"
+"Elisabethstraße","W"
+"Elise-Meyer-Allee","W"
+"Elisenstraße","W"
+"Ella-Seeling-Weg","W"
+"Ellerie",NA
+"Ellernbuschfeld",NA
+"Ellernstraße",NA
+"Elly-Beinhorn-Straße","W"
+"Elmstraße",NA
+"Elmweg",NA
+"Elsa-Brändström-Straße","W"
+"Elsa-Kruse-Straße","W"
+"Elsa-Winokurow-Weg","W"
+"Else-Ury-Weg","W"
+"Elsenborner Straße",NA
+"Elsternbusch",NA
+"Elsternhag",NA
+"Elsternweg",NA
+"Elsterweg",NA
+"Ema-Mohr-Straße","W"
+"Emdenstraße",NA
+"Emil-Berliner-Straße","M"
+"Emil-Berliner-Weg","M"
+"Emil-Meyer-Straße","M"
+"Emil-Nolde-Weg","M"
+"Emil-Schwabe-Weg","M"
+"Emil-von-Behring-Straße","M"
+"Emma-Vogel-Weg","W"
+"Emmerkamp",NA
+"Emmy-Danckwerts-Straße","W"
+"Emmy-Lanzke-Weg","W"
+"Emmy-Noether-Allee","W"
+"Emmy-Noether-Straße","W"
+"Empelder Straße",NA
+"Emscherweg",NA
+"Emslandstraße",NA
+"Emsstraße",NA
+"Emsweg",NA
+"Enckestraße","M"
+"Engelborsteler Damm",NA
+"Engelbosteler Damm",NA
+"Engelbosteler Straße",NA
+"Engelhardstraße","M"
+"Engelkestraße","M"
+"Engelsburg",NA
+"Engelsgasse",NA
+"Engerode",NA
+"Entenfang",NA
+"Entenfangweg",NA
+"Entenpfuhl",NA
+"Entenweg",NA
+"Enthorststraße",NA
+"Enzianweg",NA
+"Epiweg",NA
+"Eppersstraße","M"
+"Erdbeerenweg",NA
+"Erdbeerweg",NA
+"Erderstraße",NA
+"Erdinger Straße",NA
+"Erfurter Weg",NA
+"Erholung",NA
+"Erich-Kästner-Straße","M"
+"Erich-Klabunde-Hof","M"
+"Erich-Lindstaedt-Hof","M"
+"Erich-Marx-Weg","M"
+"Erich-Ollenhauer-Straße","M"
+"Erich-Panitz-Straße","M"
+"Erich-Wegner-Weg","M"
+"Erichstraße","M"
+"Erika","W"
+"Erika-Pfingsten-Straße","W"
+"Erika-Wedekind-Weg","W"
+"Erikastraße","W"
+"Erikaweg","W"
+"Erlengrund",NA
+"Erlenstieg",NA
+"Erlenweg",NA
+"Erlkönigweg","M"
+"Ermanweg","M"
+"Ermlander Weg",NA
+"Erna-Blencke-Weg","W"
+"Erna-Mohr-Straße","W"
+"Erna-Schütte-Str.","W"
+"Erna-Schütte-Straße","W"
+"Erna-Winkelhoff-Straße","W"
+"Ernst-Abbe-Straße","M"
+"Ernst-August-Platz","M"
+"Ernst-August-Straße","M"
+"Ernst-Bähre-Straße","M"
+"Ernst-Bock-Weg","M"
+"Ernst-Cammann-Straße","M"
+"Ernst-Ebeling-Straße","M"
+"Ernst-Eiselen-Straße","M"
+"Ernst-Gehrke-Weg","M"
+"Ernst-Georg-Hüper-Straße","M"
+"Ernst-Grote-Straße","M"
+"Ernst-Ludwig-Kirchner-Weg","M"
+"Ernst-Reuter-Straße","M"
+"Ernst-Thoms-Weg","M"
+"Ernst-von-Alten-Allee","M"
+"Ernststraße","M"
+"Erwinstraße","M"
+"Erythropelstraße","M"
+"Eschenbachstraße","M"
+"Eschenkamp",NA
+"Eschenplan",NA
+"Eschenweg",NA
+"Escherstraße","M"
+"Espenhof",NA
+"Esperantostraße",NA
+"Essener Straße",NA
+"Etternkamp",NA
+"Eulen Sackgasse",NA
+"Eulenkamp",NA
+"Eulenspiegelweg","M"
+"Eulerstraße","M"
+"Eupener Straße",NA
+"Europaallee","W"
+"Europaplatz","W"
+"Evers Kamp",NA
+"Ewige Weide",NA
+"Expo Plaza",NA
+"Expo-Allee Nord",NA
+"Expo-Allee Süd",NA
+"Expo-Weg",NA
+"Eylauer Weg",NA
+"Fagusweg",NA
+"Fahlbuschbrücke","M"
+"Falkenhorst",NA
+"Falkenstraße",NA
+"Falkenweg",NA
+"Fallingbosteler Straße",NA
+"Falterweg",NA
+"Fanny-Hensel-Weg","W"
+"Färberstraße",NA
+"Farnstieg",NA
+"Farrelweg",NA
+"Fasanengarten",NA
+"Fasanenstraße",NA
+"Fasanenweg",NA
+"Feddelerweg","M"
+"Fehrenwinkel",NA
+"Fehrsweg","M"
+"Feierabendweg",NA
+"Feldbreite",NA
+"Feldbuschwende",NA
+"Feldmannhof","M"
+"Feldspatweg",NA
+"Feldstraße",NA
+"Fellgiebelstraße","M"
+"Fellwiesenweg",NA
+"Fenskestraße","M"
+"Feodor-Lynen-Straße","M"
+"Ferdinand-Wallbrecht-Straße","M"
+"Ferdinand-Wilhelm-Fricke-Weg","M"
+"Ferdinandstraße","M"
+"Fernroder Straße",NA
+"Festplatz",NA
+"Feuerbachstraße","M"
+"Feuerdorn",NA
+"Feuersteinweg",NA
+"Feuerwehrstraße",NA
+"Fichtenallee",NA
+"Fichtenstraße",NA
+"Fichtenweg",NA
+"Fichtestraße","M"
+"Fiedelerplatz","M"
+"Fiedelerstraße","M"
+"Findorffstraße","M"
+"Findstellenweg",NA
+"Finken-Allee",NA
+"Finkengasse",NA
+"Finkenhof",NA
+"Finkenweg",NA
+"Fischerhof",NA
+"Fischerstraße",NA
+"Fischteichweg",NA
+"Flachsfurt",NA
+"Flebbestraße","M"
+"Flebbeweg","F"
+"Fleischerei-Hebel-Weg",NA
+"Flemesstraße","M"
+"Flemingstraße","M"
+"Flemmingstraße","M"
+"Flensburger Straße",NA
+"Fliederstraße",NA
+"Fliederweg",NA
+"Fliegerlust 1",NA
+"Fliegerlust 2",NA
+"Fliegerstraße",NA
+"Flinsberger Weg",NA
+"Flintweg",NA
+"Flohrgang","F"
+"Floraweg","W"
+"Flöthwiesen",NA
+"Flotowweg","M"
+"Flügeldamm",NA
+"Flüggestraße","M"
+"Flughafenschnellweg",NA
+"Flurstraße",NA
+"Fockestraße",NA
+"Föhrenwinkel",NA
+"Fontainestraße","M"
+"Forbacher Straße",NA
+"Forssmannweg","M"
+"Försterkamp",NA
+"Försterweg",NA
+"Forstgrund",NA
+"Forstweg",NA
+"Forsytienweg",NA
+"Fortunastraße","W"
+"Fössestraße",NA
+"Fösseweg",NA
+"Franckestraße","M"
+"Frankenfeldstraße","F"
+"Frankenring",NA
+"Frankfurter Allee",NA
+"Frankfurter Straße",NA
+"Fränkische Straße",NA
+"Franklinstraße","M"
+"Franz-Bork-Straße","M"
+"Franz-Heppler-Weg","M"
+"Franz-Mock-Weg","M"
+"Franz-Nause-Straße","M"
+"Franz-Steineke-Weg","M"
+"Franzensbader Hof",NA
+"Franziskusweg","M"
+"Franziusweg","M"
+"Franzstraße","F"
+"Fraunhoferstraße","M"
+"Freboldstraße","M"
+"Fred-Grube-Platz","M"
+"Freda-Niemann-Straße","W"
+"Freda-Wuesthoff-Straße","W"
+"Freiberger Hof",NA
+"Freidingstraße",NA
+"Freienstraße",NA
+"Freienwalder Straße",NA
+"Freiherr-vom-Stein-Straße","M"
+"Freihorstfeld",NA
+"Freiligrathstraße","M"
+"Frenssenufer","M"
+"Frenzelkamp",NA
+"Frerkingweg","M"
+"Freudenthalstraße","M"
+"Freundallee","M"
+"Freytagstraße","M"
+"Frickastraße","W"
+"Fridastraße","W"
+"Frieda-Duensing-Weg","W"
+"Friedel-Gewecke-Weg","M"
+"Friedenauer Straße",NA
+"Friedenstraße",NA
+"Friederikenplatz","W"
+"Friedhofsallee",NA
+"Friedhofstraße",NA
+"Friedhofsweg",NA
+"Friedländer Weg",NA
+"Friedrich-Busack-Straße","M"
+"Friedrich-Ebert-Platz","M"
+"Friedrich-Ebert-Straße","M"
+"Friedrich-Engels-Straße","M"
+"Friedrich-Heeren-Straße","M"
+"Friedrich-Heller-Straße","M"
+"Friedrich-Klug-Straße","M"
+"Friedrich-Müller-Weg","M"
+"Friedrich-Rasche-Winkel","M"
+"Friedrich-Rodehorst-Straße","M"
+"Friedrich-Silcher-Straße","M"
+"Friedrich-Wesemann-Straße","M"
+"Friedrichstraße","M"
+"Friedrichswall","M"
+"Friesenring",NA
+"Friesenstraße","M"
+"Fritz-Behrens-Allee","M"
+"Fritz-Beindorff-Allee","M"
+"Fritz-Erler-Straße","M"
+"Fritz-Ey Weg","M"
+"Fritz-Goy-Weg","M"
+"Fritz-Höger-Weg","M"
+"Fritz-Kuckuck-Straße","M"
+"Fritz-Meyer-Straße","M"
+"Fritz-Reuter-Straße","M"
+"Fritz-Röttger-Straße","M"
+"Fritz-Schwerdtfeger-Weg","M"
+"Fröbelstraße","M"
+"Fröbelweg",NA
+"Frobösestraße","M"
+"Frohnauweg",NA
+"Frömmlingstraße","M"
+"Froschkönigweg","M"
+"Fuchsbachweg",NA
+"Fuchsgang",NA
+"Fuchsklint",NA
+"Fuchsrain",NA
+"Fuchswinkel",NA
+"Fuderhof",NA
+"Fuhlsbütteler Weg",NA
+"Fuhrberger Straße",NA
+"Fuhrbleek",NA
+"Fuhrenkamp",NA
+"Fuhrenplan",NA
+"Fuhsestraße",NA
+"Fuldaer Wende",NA
+"Füllenfeldstraße",NA
+"Fundstraße",NA
+"Funkenkamp",NA
+"Fürstenwalder Straße",NA
+"G. Niehoff-Weg","M"
+"Gabelsbergerstraße","M"
+"Gabriele-von-Glasow-Weg","M"
+"Gaffkyweg","M"
+"Gaimweg",NA
+"Gandhistraße","M"
+"Ganghoferstraße","M"
+"Gänselieselweg","W"
+"Gänsemarsch",NA
+"Gantenbleek",NA
+"Garbeweg","M"
+"Garbsener Landstraße",NA
+"Garkenburgstraße",NA
+"Garmsstraße",NA
+"Gartenallee",NA
+"Gartenheimstraße",NA
+"Gartenhof",NA
+"Gartenstraße",NA
+"Gartenweg",NA
+"Gartenwinkel",NA
+"Gärtnereiweg",NA
+"Gärtnerweg",NA
+"Garvensstraße","M"
+"Gaußstraße","M"
+"Gebrüder-Hartmann-Straße","M"
+"Gedrathof","M"
+"Geestemünder Weg",NA
+"Gehägestraße",NA
+"Gehaplatz","M"
+"Gehrdener Damm",NA
+"Gehrdener Straße",NA
+"Geibelplatz","M"
+"Geibelstraße","M"
+"Geißblattweg",NA
+"Gelber Damm",NA
+"Gellertstraße","M"
+"Gemeindeholzstraße",NA
+"Georg-Büchner-Straße","M"
+"Georg-Büchner-Weg","M"
+"Georgengarten","M"
+"Georgspassage","M"
+"Georgsplatz","M"
+"Georgstraße","M"
+"Georgswall","M"
+"Geranienweg",NA
+"Gerberstraße",NA
+"Gerbrandstraße","M"
+"Gerdingstraße","M"
+"Gergarten",NA
+"Gerhard-Lossin-Straße","M"
+"Gerhard-von-Frankenberg-Weg","M"
+"Gerhard-von-Gehrden-Weg","M"
+"Gerhardtstraße","M"
+"Gerhart-Hauptmann-Straße","M"
+"Gerhart-Hauptmann-Weg","M"
+"Gerlachstraße","M"
+"Gerloffstraße","M"
+"Gernsstraße","M"
+"Gerrit-Engelke-Straße","M"
+"Gerstäckerstraße","M"
+"Gertrud-Bäumer-Weg","W"
+"Gertrud-Greising-Weg","W"
+"Gertrud-Knebusch-Straße","W"
+"Gertrud-Kochanowski-Weg","W"
+"Gertsertsweg","M"
+"Geschwister-Scholl-Straße","WM"
+"Geseniusweg","M"
+"Gesmannstraße","F"
+"Geveker Kamp","M"
+"Geyerstraße","M"
+"Gibraltarweg",NA
+"Giebelkamp",NA
+"Gieseckenkamp",NA
+"Giesener Straße",NA
+"Gifhorner Straße",NA
+"Gimpeleck",NA
+"Gimpelsteg",NA
+"Gimpelweg",NA
+"Ginsterweg",NA
+"Girlitzpark",NA
+"Giselherweg",NA
+"Gladiolenstraße",NA
+"Gladiolenweg",NA
+"Glashüttenstraße",NA
+"Glatzer Straße",NA
+"Glatzer Weg",NA
+"Gleidinger Straße",NA
+"Gleiwitzer Straße",NA
+"Glimmerweg",NA
+"Glockenheide",NA
+"Glockseestraße",NA
+"Gloedenhof","F"
+"Glogauer Weg",NA
+"Glosterweg",NA
+"Glück-Auf-Straße",NA
+"Glücksburger Weg",NA
+"Glünderstraße","M"
+"Gneisenaustraße","M"
+"Gneiststraße","M"
+"Gnesener Weg",NA
+"Göbelstraße","M"
+"Godehardistraße","M"
+"Gödekeweg","M"
+"Godshorner Damm",NA
+"Godshorner Straße",NA
+"Goebenstraße","M"
+"Goerdelerstraße","M"
+"Goetheplatz","M"
+"Goethestraße","M"
+"Göhrdestraße",NA
+"Göhrshof","M"
+"Göingweg","F"
+"Goldener Winkel",NA
+"Goldmarieweg","W"
+"Goldrutenweg",NA
+"Gölenkamp",NA
+"Gollstraße","M"
+"Golternstraße","F"
+"Gorch-Fock-Straße","M"
+"Görlitzer Hof",NA
+"Görlitzer Straße",NA
+"Goseriede",NA
+"Gosewischs Garten",NA
+"Gosewischstraße","F"
+"Goslarsche Straße",NA
+"Gothaer Straße",NA
+"Gottfried-Benn-Weg","M"
+"Gottfried-Keller-Straße","M"
+"Göttinger Chaussee",NA
+"Göttinger Hof",NA
+"Göttinger Landstraße",NA
+"Göttinger Straße",NA
+"Götzstraße","M"
+"Grabbestraße","M"
+"Grabenweg",NA
+"Gradestraße","M"
+"Graditzer Straße",NA
+"Graefenhainweg","M"
+"Graf-Stauffenberg-Straße","M"
+"Grafenberger Straße",NA
+"Grahnstraße","M"
+"Grambartstraße","M"
+"Grand-Quevilly-Passage",NA
+"Grandeweg","M"
+"Graneweg",NA
+"Granitweg",NA
+"Grasdorfer Straße",NA
+"Grasekamp",NA
+"Gräserweg","M"
+"Grashöfe",NA
+"Graudenzer Weg",NA
+"Graugansweg",NA
+"Grävemeyerstraße","F"
+"Gravensteiner Allee",NA
+"Grazer Straße",NA
+"Grebenberg",NA
+"Gredelfeldstraße",NA
+"Gredelhof",NA
+"Grefenweg",NA
+"Greiffenberger Straße",NA
+"Greifswalder Straße",NA
+"Greitheweg","F"
+"Grenzgraben",NA
+"Grenzheide",NA
+"Grenzstraße",NA
+"Grenzweg",NA
+"Gretchenstraße","W"
+"Grete-Rosenberg-Wildhagen-Weg","W"
+"Gretelriede",NA
+"Gretelsteig",NA
+"Grethe-Jürgens-Straße","W"
+"Gretlade",NA
+"Grevenbleck",NA
+"Griegweg",NA
+"Grillenweg",NA
+"Grillparzerstraße","M"
+"Grimmstraße","M"
+"Grimsehlweg","M"
+"Grindelhof",NA
+"Grobeweg",NA
+"Gronostraße","F"
+"Gropiusstraße","M"
+"Groß-Buchholzer Kirchweg",NA
+"Groß-Buchholzer Straße",NA
+"Große Barlinge",NA
+"Große Düwelstraße","F"
+"Große Heide",NA
+"Große Pfahlstraße",NA
+"Große Pranke",NA
+"Große Straße",NA
+"Großer Hillen",NA
+"Großer Kolonnenweg",NA
+"Großes Neddernholz",NA
+"Großhorst",NA
+"Großkopfstraße",NA
+"Großmannweg","M"
+"Großweg","M"
+"Grotefendstraße","F"
+"Grotestraße","M"
+"Gröven",NA
+"Grovestraße",NA
+"Grünaustraße","M"
+"Grünberger Weg",NA
+"Grüne Aue",NA
+"Grünewaldstraße","M"
+"Grünlinde",NA
+"Grünspechtwiese",NA
+"Gubener Straße",NA
+"Gubener Weg",NA
+"Guerickestraße","M"
+"Gulbranssonweg","M"
+"Güldenbuschweg",NA
+"Gumbinner Weg",NA
+"Gundelachweg","M"
+"Gundelrebe",NA
+"Günschmannweg",NA
+"Günselweg",NA
+"Günter-Porsiel-Straße","M"
+"Günther-Wagner-Allee","M"
+"Güntherstraße","M"
+"Gusindeweg","M"
+"Gustav-Adolf-Straße","M"
+"Gustav-Brandt-Straße","M"
+"Gustav-Bratke-Allee","M"
+"Gustav-Bratke-Straße","M"
+"Gustav-Pries-Straße","M"
+"Gustav-Schenk-Weg","M"
+"Gut",NA
+"Gut Grün",NA
+"Gut Kronsberg",NA
+"Gutenberghof","M"
+"Gutenbergstraße","M"
+"Guts-Muths-Straße","M"
+"Gutsweg",NA
+"Haarbeeke",NA
+"Haarbünte",NA
+"Haarstraße",NA
+"Haasemannstraße","M"
+"Haasenstraße","M"
+"Habereck",NA
+"Haberhof","M"
+"Habermannweg","M"
+"Habichthorst",NA
+"Habichtshorststraße",NA
+"Habichtsweg",NA
+"Habichtweg",NA
+"Hackethalstraße","M"
+"Haeckelstraße","M"
+"Hafenbahnweg",NA
+"Hagacker",NA
+"Hagebuttenweg",NA
+"Hagedornweg","F"
+"Hagenbleckstraße",NA
+"Hagenhof",NA
+"Hagensmoor",NA
+"Hagenstraße",NA
+"Hägenstraße",NA
+"Hagentor",NA
+"Hägerweg",NA
+"Hägewiesen",NA
+"Hahnemannweg","M"
+"Hahnenkamp",NA
+"Hahnenschrei",NA
+"Hahnenseestraße","F"
+"Hahnensteg",NA
+"Hahnenstraße",NA
+"Hainbuchenallee",NA
+"Hainbuchenweg",NA
+"Hainhölzer Straße",NA
+"Häkenstraße",NA
+"Halberstadtweg","F"
+"Halkettstraße","M"
+"Hallermünder Straße","M"
+"Hallerstraße",NA
+"Hallesche Straße",NA
+"Haltenhoffstraße","M"
+"Hamburger Allee",NA
+"Hamelner Chaussee",NA
+"Hamelner Straße",NA
+"Hammersteinstraße","M"
+"Hammhof","M"
+"Hampen Hof",NA
+"Hamstergrund",NA
+"Hamsunstraße","M"
+"Handelshof",NA
+"Händelstraße","M"
+"Händelweg",NA
+"Hanebuthwinkel","M"
+"Hangstraße",NA
+"Hanna-Neuse-Straße","W"
+"Hannelore-Kunze-Straße","W"
+"Hannoversche Straße",NA
+"Hanns-Lilje-Platz","M"
+"Hanomaghof",NA
+"Hanomagstraße",NA
+"Hans-Böckler-Allee","M"
+"Hans-Böckler-Straße","M"
+"Hans-Eyl-Straße","M"
+"Hans-Holbein-Straße","M"
+"Hans-Joachim-Toll-Weg","M"
+"Hans-Jörg-Hennecke-Gang","M"
+"Hans-Krebs-Straße","M"
+"Hans-Mertens-Straße","M"
+"Hans-Paulmann-Straße","M"
+"Hans-Sachs-Weg","M"
+"Hans-Theismann-Weg","M"
+"Hans-Werner-Lampe-Weg","M"
+"Hansastraße",NA
+"Hanseatenstraße",NA
+"Hänselriede",NA
+"Hansenhof",NA
+"Hansinckstraße","M"
+"Hansteinstraße","F"
+"Hapkeweg","M"
+"Harburger Hof",NA
+"Hardenbergstraße","M"
+"Harenberger Meile",NA
+"Harenberger Straße",NA
+"Harener Hof",NA
+"Harkenkamp",NA
+"Harmshof",NA
+"Harnischstraße","M"
+"Harryweg","M"
+"Harsumer Straße",NA
+"Hartenbrakenstraße",NA
+"Hartestraße","F"
+"Hartliebweg",NA
+"Hartmannstraße","M"
+"Hartungstraße","M"
+"Hartwigstraße","M"
+"Harzburger Platz",NA
+"Harzburger Straße",NA
+"Harzweg",NA
+"Haselnußweg",NA
+"Haselünner Straße",NA
+"Haselweg",NA
+"Hasenberg",NA
+"Hasenkamp",NA
+"Hasenpfad",NA
+"Hasenplan",NA
+"Hasenweg",NA
+"Hasenwinkel",NA
+"Haseweg",NA
+"Haspelfelder Weg",NA
+"Haspelmathstraße",NA
+"Hasselfeldstraße",NA
+"Hassellhof","M"
+"Haßlocher Straße",NA
+"Haster Weg",NA
+"Haubergstraße","M"
+"Hauffstraße","M"
+"Hauptstraße",NA
+"Hauptweg",NA
+"Hausmannstraße","M"
+"Havelser Straße",NA
+"Havelweg",NA
+"Havemannstraße","M"
+"Haverkamp",NA
+"Haydnstraße","M"
+"Haydnweg","M"
+"HDI-Platz",NA
+"Hebbelstraße","M"
+"Heckenrosengang",NA
+"Hedwig-Bollhagen-Straße","W"
+"Hedwigstraße","W"
+"Hedwigsweg","W"
+"Heesestraße","M"
+"Heesternweg",NA
+"Heesternwinkel",NA
+"Hegebläch",NA
+"Hegefeldstraße",NA
+"Hegelstraße","M"
+"Heideblümchen",NA
+"Heideblüte",NA
+"Heidegrün",NA
+"Heidelbeerweg",NA
+"Heidering",NA
+"Heidestraße",NA
+"Heideweg",NA
+"Heidewinkel",NA
+"Heidjerhof",NA
+"Heidkampsee",NA
+"Heidornstraße",NA
+"Heiligengeiststraße",NA
+"Heiliger Kamp",NA
+"Heilsberger Weg",NA
+"Heimatweg",NA
+"Heimburgstraße","F"
+"Heimstättenstraße",NA
+"Heimstraße",NA
+"Heimweg",NA
+"Heinemanhof","F"
+"Heinersdorfweg",NA
+"Heinescher Hof","M"
+"Heinkelstraße",NA
+"Heinkenstraße",NA
+"Heinrich-Baumgarte-Straße","M"
+"Heinrich-Beensen-Straße","M"
+"Heinrich-Bock-Hof","M"
+"Heinrich-Boether-Straße","M"
+"Heinrich-Böll-Weg","M"
+"Heinrich-Goebel-Straße","M"
+"Heinrich-Grete-Str.","M"
+"Heinrich-Grethe-Straße","M"
+"Heinrich-Heine-Platz","M"
+"Heinrich-Heine-Ring","M"
+"Heinrich-Heine-Straße","M"
+"Heinrich-Hertz-Straße","M"
+"Heinrich-Hoff-Straße","M"
+"Heinrich-Jasper-Weg","M"
+"Heinrich-Kirchweger-Platz","M"
+"Heinrich-Köhler-Hof","M"
+"Heinrich-Könecke-Straße","M"
+"Heinrich-Kümmel-Straße","M"
+"Heinrich-Lampe Straße","M"
+"Heinrich-Lange-Straße","M"
+"Heinrich-Lindwedel-Straße","M"
+"Heinrich-Lübon-Straße","M"
+"Heinrich-Meister-Allee","M"
+"Heinrich-Rievel-Straße","M"
+"Heinrich-Spät-Straße","M"
+"Heinrich-Spoerl-Straße","M"
+"Heinrich-Stamme-Straße","M"
+"Heinrich-Warnecke-Weg","M"
+"Heinrichstraße","M"
+"Heintzestraße","M"
+"Heinz-Boldt-Weg","M"
+"Heinz-Haferkamp-Straße","M"
+"Heinzelmännchenweg","M"
+"Heiseder Straße",NA
+"Heisenbergstraße","M"
+"Heisenstraße","M"
+"Heisterberg",NA
+"Heisterbergallee",NA
+"Heisterberghof",NA
+"Heisterholzwinkel",NA
+"Heisterkamp",NA
+"Heitlinger Hof",NA
+"Heitlinger Straße",NA
+"Helen-Keller-Weg","W"
+"Helenenstieg","W"
+"Helenenstraße","W"
+"Helgoländer Straße",NA
+"Hellenkamp","W"
+"Helleweg",NA
+"Helmeweg",NA
+"Helmholtzstraße","M"
+"Helmkestraße","F"
+"Helmstedter Straße",NA
+"Helmut-Oberheide-Weg","M"
+"Helstorfer Straße",NA
+"Hemelingstraße","M"
+"Hemminger Kirchweg",NA
+"Hemminger Weg",NA
+"Henckellweg","M"
+"Hengstmannstraße","M"
+"Hengstweg",NA
+"Henjesstraße",NA
+"Henleinweg","M"
+"Henniesruh",NA
+"Hennigesstraße","M"
+"Henriette-Gottschalk-Anger","W"
+"Henriettenweg","W"
+"Henry-Lüders-Straße","M"
+"Henry-van-de-Velde-Weg","M"
+"Henschelweg","M"
+"Henzeweg","M"
+"Herbartstraße","M"
+"Herderstraße","M"
+"Herforder Straße",NA
+"Herkuleshof","M"
+"Hermann-Bahlsen-Allee","M"
+"Hermann-Ehlers-Allee","M"
+"Hermann-Frick-Weg","M"
+"Hermann-Fulle-Straße","M"
+"Hermann-Gebauer-Weg","M"
+"Hermann-Guthe-Straße","M"
+"Hermann-Haller-Straße","M"
+"Hermann-Hesse-Straße","M"
+"Hermann-Löns-Park","M"
+"Hermann-Löns-Straße","M"
+"Hermann-Mießner-Straße","M"
+"Hermannsburger Straße",NA
+"Hermannstraße","M"
+"Hermenweg",NA
+"Hermesallee","M"
+"Hermesstraße","M"
+"Herninghof",NA
+"Herrenhäuser Kirchweg",NA
+"Herrenhäuser Straße",NA
+"Herrenkrugweg",NA
+"Herrenstraße","M"
+"Herrenwiesen","M"
+"Herschelstraße","M"
+"Hertha-Feist-Weg","W"
+"Herthastraße","W"
+"Hertzstraße","M"
+"Herzlaker Straße",NA
+"Herzog-Heinrich-Weg","M"
+"Herzogin-Elisabeth-Weg","W"
+"Herzogsborn",NA
+"Hesemannstraße","M"
+"Heseper-Moor-Weg",NA
+"Hespenkamp",NA
+"Hessenstraße",NA
+"Heuerstraße","M"
+"Heukamp",NA
+"Heusingerstraße","M"
+"Heveliusstraße","M"
+"Heyden-Linden-Straße","M"
+"Heymesstraße","M"
+"Hilda-Rempel-Straße","W"
+"Hilde-Schneider-Allee","W"
+"Hildeboldstraße","M"
+"Hildebrand-Weg","W"
+"Hildesheimer Straße",NA
+"Hilshof",NA
+"Hilsweg",NA
+"Himbeerweg",NA
+"Himptenhof",NA
+"Hindenburgstraße","M"
+"Hinrichsring","M"
+"Hinter dem Dorfe",NA
+"Hinter dem Hagen",NA
+"Hinter dem Holze",NA
+"Hinter dem Kampe",NA
+"Hinter den Höfen",NA
+"Hinter der Alten Burg",NA
+"Hinter der Worth",NA
+"Hinter Pastors Hofe",NA
+"Hintere Schöneworth",NA
+"Hinterm Heidbleek",NA
+"Hintzehof","F"
+"Hinüberstraße","F"
+"Hiroshimaweg",NA
+"Hirschanger",NA
+"Hirschberger Straße",NA
+"Hirschberger Weg",NA
+"Hirtenplatz",NA
+"Hirtenstraße",NA
+"Hirtenweg",NA
+"Hirtenwiese",NA
+"Hischestraße","M"
+"Hitzackerweg",NA
+"Hodlerweg","M"
+"Hofackerstraße","M"
+"Höfestraße",NA
+"Hoffmann-von-Fallersleben-Straße","M"
+"Hoffmannshof","F"
+"Hoffstraße","M"
+"Hofhäuserweg",NA
+"Hoflage",NA
+"Hogrefestraße","F"
+"Hohe Brücke",NA
+"Hohe Bünte",NA
+"Hohe Feldstraße",NA
+"Hohe Linde",NA
+"Hohe Straße",NA
+"Hohenrode",NA
+"Hohensteinweg",NA
+"Hohenzollernstraße","M"
+"Hoher Holzweg",NA
+"Hoher Weg",NA
+"Hohes Feld",NA
+"Hohes Ufer",NA
+"Hohler Weg",NA
+"Höhnenkamp",NA
+"Holbeinstraße","M"
+"Hölderlinstraße","M"
+"Hollerithallee","M"
+"Holleweg","F"
+"Holscherstraße","M"
+"Holteistraße",NA
+"Holtenser Weg",NA
+"Holthusenstraße","M"
+"Höltjebaumstraße",NA
+"Höltyplatz","M"
+"Höltystraße","M"
+"Holunderkamp",NA
+"Holunderstraße",NA
+"Holunderweg",NA
+"Holzmarkt",NA
+"Holzrehre",NA
+"Holzstraße",NA
+"Holzweg",NA
+"Holzwiesen",NA
+"Homannstraße",NA
+"Homburgweg",NA
+"Honerkamp",NA
+"Honholt",NA
+"Honiggrasweg",NA
+"Hooverweg","M"
+"Hopfengarten",NA
+"Hopfenweg",NA
+"Höpfnerstraße","M"
+"Hoppegartenring",NA
+"Hoppelweg",NA
+"Hoppenstedtstraße","M"
+"Hoppestraße","M"
+"Hornemannweg","M"
+"Horner Straße",NA
+"Hornweg",NA
+"Horst-Fitjer-Weg","M"
+"Horst-Schweimler-Weg","M"
+"Horster Weg",NA
+"Hoverdengasse",NA
+"Höversche Straße",NA
+"Hoyerstraße","F"
+"Huberstraße","M"
+"Hubertusstraße","M"
+"Hudeplan",NA
+"Hufelandstraße","M"
+"Hugo Windt Weg","M"
+"Hugo-Preuß-Straße","M"
+"Hülsinghof","M"
+"Humboldtstraße","M"
+"Hümmlingweg",NA
+"Hunaeusstraße","M"
+"Hundepfuhlsweg",NA
+"Hunsrückweg",NA
+"Hurlebuschweg","M"
+"Husarenstraße","M"
+"Husumer Weg",NA
+"Hüttenstraße",NA
+"Ibykusweg",NA
+"Ida-Boie-Straße","W"
+"Iffezheimer Weg",NA
+"Ifflandstraße","M"
+"Igelgrund",NA
+"Igelweg",NA
+"Ihmepassage",NA
+"Ihmeplatz",NA
+"Ihmer Landstraße",NA
+"Ihmer Straße",NA
+"Ihmer Tor",NA
+"Ihmeweg",NA
+"Ihtweg",NA
+"Ikarusallee","M"
+"Illerweg",NA
+"Ilmenauer Weg",NA
+"Ilmenauweg",NA
+"Ilse-ter-Meer-Weg","W"
+"Ilsenburger Weg",NA
+"Ilseweg",NA
+"Iltener Straße",NA
+"Im Alten Dorfe",NA
+"Im Bahlbrink",NA
+"Im Bauverein",NA
+"Im Bergwinkel",NA
+"Im Bodeneichsfeld",NA
+"Im Born",NA
+"Im Brande",NA
+"Im Bruche",NA
+"Im Bruchfeld",NA
+"Im Bruchkampe",NA
+"Im Buchenfelde",NA
+"Im Buchholzfelde",NA
+"Im Bultfeld",NA
+"Im Büntefeld",NA
+"Im Büntefelde",NA
+"Im Distelwinkel",NA
+"Im Dorfe",NA
+"Im Dorffeld",NA
+"Im Dornbusch",NA
+"Im Dornfeld",NA
+"Im Eichholz",NA
+"Im Eickhof",NA
+"Im Eikhof",NA
+"Im Ellernbruch",NA
+"Im Eschbruch",NA
+"Im Finkenhof",NA
+"Im Flöte",NA
+"Im Fuchsfeld",NA
+"Im Fuhrenkamp",NA
+"Im Gehäge",NA
+"Im Goldfeld",NA
+"Im Gosewinkel",NA
+"Im großen Bergfeld",NA
+"Im Großen Büchenfeld",NA
+"Im Großen Feld",NA
+"Im Großen Freien",NA
+"Im Grunde",NA
+"Im Hainholz",NA
+"Im Hammfeld",NA
+"Im Hasenfeld",NA
+"Im Hasenwinkel",NA
+"Im Haspelfelde",NA
+"Im Heckenweg",NA
+"Im Heidkampe",NA
+"Im Heimfrieden",NA
+"Im Helland",NA
+"Im Hellerloh",NA
+"Im Hespe",NA
+"Im Hohen Felde",NA
+"Im Kamp",NA
+"Im Kirschwinkel",NA
+"Im Kleifeld",NA
+"Im Kleinen Bruche",NA
+"Im Klingenkampe",NA
+"Im Königswinkel",NA
+"Im Kornfeld",NA
+"Im Kreuzkampe",NA
+"Im Krummen Sieke",NA
+"Im kurzen Felde",NA
+"Im Lämpchen",NA
+"Im Lohfelde",NA
+"Im Mailand",NA
+"Im Maisfeld",NA
+"Im Mayfeld",NA
+"Im Moore",NA
+"Im Myrtenkranz",NA
+"Im Othfelde",NA
+"Im Othfelde 63",NA
+"Im Othfelde 65",NA
+"Im Othfelde 67",NA
+"Im Othfelde 69",NA
+"Im Rehwinkel",NA
+"Im Reihpiepenfelde",NA
+"Im Rischedahle",NA
+"Im Rispengras",NA
+"Im Roggenfelde",NA
+"Im Rosenhag",NA
+"Im Sacke",NA
+"Im Sande",NA
+"Im Seefelde",NA
+"Im Siek",NA
+"Im Sonnenwinkel",NA
+"Im Spann",NA
+"Im Spitzen Ort",NA
+"Im Stiefel",NA
+"Im Stiegfeld",NA
+"Im stillen Winkel",NA
+"Im Straußgras",NA
+"Im Südfeld",NA
+"Im Süstern",NA
+"Im Tale",NA
+"Im Teichfeld",NA
+"Im Teile",NA
+"Im Tiefen Lande",NA
+"Im Töge",NA
+"Im Töpferort",NA
+"Im Torfstich",NA
+"Im Triftfelde",NA
+"Im Vogelsang",NA
+"Im Wehrfeld",NA
+"Im Weidefeld",NA
+"Im Weidengrund",NA
+"Im Wiesenfeld",NA
+"Im Wiesengrund",NA
+"Im Wiesengrunde",NA
+"Im Wiesenhof",NA
+"Im Wiesenkampe",NA
+"Im Winkel",NA
+"Im Wolfskampe",NA
+"Im Wollgrase",NA
+"Im Wölpfelde",NA
+"Im Zittergras",NA
+"Imhoffstraße",NA
+"Imkerstraße",NA
+"Imkerweg",NA
+"Immelmannstraße","F"
+"Immengarten",NA
+"Immenkamp",NA
+"Immenweg",NA
+"Immergrün",NA
+"Immermannstraße","M"
+"In den Belsen",NA
+"In den Binsen",NA
+"In den Bülten",NA
+"In den Feldern",NA
+"In den Fuhren",NA
+"In den Gärten",NA
+"In den Gründen",NA
+"In den Heestern",NA
+"In den Kämpen",NA
+"In den Kolkwiesen",NA
+"In den Laher Höfen",NA
+"In den Moorkämpen",NA
+"In den Obstwiesen",NA
+"In den Seeackern",NA
+"In den Sieben Stücken",NA
+"In den Siekwiesen",NA
+"In den Sonnenhöfen",NA
+"In der Bebie",NA
+"In der Beschen",NA
+"In der Bruchheide",NA
+"In der Bünte",NA
+"In der Feddel",NA
+"In der Flage",NA
+"In der Harst",NA
+"In der Klewert",NA
+"In der Masch",NA
+"In der Rehre",NA
+"In der Reuterwiese",NA
+"In der Rischweide",NA
+"In der Steinbreite",NA
+"In der Steinriede",NA
+"In der Steintormasch",NA
+"Industriestraße",NA
+"Industrieweg",NA
+"Inge-Meier-Hof","W"
+"Ingeborg-Drewitz-Gang","W"
+"Ingeborg-Steinohrt-Weg","W"
+"Innersteweg",NA
+"Innsbrucker Straße",NA
+"Innstraße",NA
+"Insterburger Weg",NA
+"Ira-Wolkowa-Weg","W"
+"Iris-Runge-Platz","W"
+"Irisstraße",NA
+"Irisweg",NA
+"Irma-Pickerd-Weg","W"
+"Irmgard-Ulderup-Straße","W"
+"Irmgard-Woldering-Straße","W"
+"Irmhild-Warweg-Straße","W"
+"Isarstraße",NA
+"Isernhagener Straße",NA
+"Issendorffstraße","F"
+"Ithstraße",NA
+"Ithweg",NA
+"Jacobistraße","M"
+"Jacobsenweg","M"
+"Jacobsstraße","M"
+"Jädekamp",NA
+"Jadeweg",NA
+"Jägerstieg",NA
+"Jägerstraße",NA
+"Jahnplatz","M"
+"Jahnstraße","M"
+"Jakobistraße","M"
+"Jakobskamp","M"
+"Jakobsweg","M"
+"Janusz-Korczak-Allee","M"
+"Jasminweg","W"
+"Jathostraße","M"
+"Jenaer Weg",NA
+"Joachimstraße","M"
+"Jobstkamp","M"
+"Jobstweg",NA
+"Johann-Piltz-Ring","M"
+"Johann-Trollmann-Weg","M"
+"Johannes-Lau-Hof","M"
+"Johannes-Paechtner-Straße","M"
+"Johannes-Schüler-Weg","M"
+"Johanneskamp","M"
+"Johannssenstraße","M"
+"John-Mott-Hof","M"
+"Jöhrensstraße","M"
+"Jonathanweg","M"
+"Jordanstraße","M"
+"Jorindeweg",NA
+"Jörnshof","M"
+"Juglerstraße","M"
+"Juister Weg",NA
+"Julienne-Trouet-Platz","W"
+"Julius-Brecht-Straße","M"
+"Julius-Leber-Straße","M"
+"Julius-Leber-Weg","M"
+"Jungfernstieg","W"
+"Junkersstraße","M"
+"Jupiterring",NA
+"Jupiterstraße",NA
+"Juraweg",NA
+"Jürgenweg","M"
+"Jütlandstraße",NA
+"Kabelkamp",NA
+"Kafkastraße","M"
+"Kahlendamm",NA
+"Kaiser-Wilhelm-Straße","M"
+"Kaiserallee","M"
+"Kalabisstraße","M"
+"Kaliweg",NA
+"Kalkenstraße",NA
+"Kalmiaweg",NA
+"Kalmusweg",NA
+"Kambriumweg",NA
+"Kamenzer Weg",NA
+"Kamerunweg",NA
+"Kammstraße",NA
+"Kammweg",NA
+"Kampsriede",NA
+"Kampstraße",NA
+"Kanalstraße",NA
+"Kansteinweg",NA
+"Kantplatz","M"
+"Kantstraße","M"
+"Kapellenbrink",NA
+"Kapellenplatz",NA
+"Kapellenstraße",NA
+"Kapellenweg",NA
+"Kapitän-von-Müller-Straße","M"
+"Kaplanstraße","M"
+"Kappisweg","M"
+"Karbonweg",NA
+"Kardinal-Galen-Hof","M"
+"Kardinal-von-Galen-Ring","M"
+"Karl-Arnold-Platz","M"
+"Karl-Drechsler-Weg","M"
+"Karl-Heinrich-Ulrichs-Straße","M"
+"Karl-Hinze-Weg","M"
+"Karl-Hofmann-Weg","M"
+"Karl-Imhoff-Weg","M"
+"Karl-Jakob-Hirsch-Weg","M"
+"Karl-Kellner-Straße","M"
+"Karl-Kraut-Straße","M"
+"Karl-Kruse-Straße","M"
+"Karl-Laue-Weg","M"
+"Karl-Legien-Straße","M"
+"Karl-Ludwig-Schleich-Weg","M"
+"Karl-Marx-Platz","M"
+"Karl-Marx-Straße","M"
+"Karl-Rüter-Straße","M"
+"Karl-Schurz-Weg","M"
+"Karl-Serbent-Straße","M"
+"Karl-Thiele-Weg","M"
+"Karl-Thürmer-Weg","M"
+"Karl-Wiechert-Allee","M"
+"Karla-Schmidt-Straße","W"
+"Karlsbader Straße",NA
+"Karlsruher Straße",NA
+"Karlstraße","M"
+"Karmarschstraße","M"
+"Kärntner Platz",NA
+"Karoline-Herschel-Straße","W"
+"Karolinenstraße","W"
+"Kasseler Straße",NA
+"Kastanienallee",NA
+"Kastanienplatz",NA
+"Kastanienweg",NA
+"Kästnerstraße","M"
+"Käte-Werner-Straße","W"
+"Katermahl",NA
+"Katharina-Behrend-Weg","W"
+"Katharina-Petersen-Weg","W"
+"Käthe-Kollwitz-Weg","W"
+"Käthe-Steinitz-Straße","W"
+"Käthe-Vordtriede-Weg","W"
+"Katrin-Sello-Weg","W"
+"Kattenbrookstrift",NA
+"Katzbachweg",NA
+"Katzenstieg",NA
+"Katzenwinkel",NA
+"Kaulbachstraße","M"
+"Käuzchenweg",NA
+"Kauzenwinkel",NA
+"Kelbshof","F"
+"Kemptener Straße",NA
+"Keplerstraße","M"
+"Kerbelweg",NA
+"Kerstingstraße","M"
+"Kesselstraße",NA
+"Kestnerstraße","M"
+"Kettlerweg","M"
+"KGV Feierabend Erlenweg",NA
+"KGV Krügersruh, Maiblumenweg",NA
+"Kiebitz-Allee",NA
+"Kiebitzeck",NA
+"Kiebitzecke",NA
+"Kiebitzgrund",NA
+"Kiebitzrain",NA
+"Kiebitzweg",NA
+"Kiefernpfad",NA
+"Kiefernstraße",NA
+"Kiefernweg",NA
+"Kiefkampstraße",NA
+"Kiepertstraße","M"
+"Kiephof","M"
+"Kieselgrund",NA
+"Kieselgurweg",NA
+"Kippstraße","M"
+"Kirchbichler Straße",NA
+"Kirchdamm",NA
+"Kircher Straße",NA
+"Kirchhöfnerstraße",NA
+"Kirchhorster Straße",NA
+"Kirchnerweg","W"
+"Kirchröder Straße",NA
+"Kirchstraße",NA
+"Kirchtor",NA
+"Kirchwender Straße",NA
+"Kirschblütenweg",NA
+"Kirschenweg",NA
+"Kirschgarten",NA
+"Kirschweg",NA
+"KISS & GO",NA
+"Klabundestraße",NA
+"Klagenfurter Straße",NA
+"Klamottenweg",NA
+"Klaskamp",NA
+"Klasseweg",NA
+"Klaterfeldweg",NA
+"Klaus-Groth-Straße","M"
+"Klaus-Müller-Kilian-Weg","M"
+"Klausenerweg","M"
+"Klausingweg","M"
+"Kleefelder Sonnenweg",NA
+"Kleefelder Straße",NA
+"Kleestraße",NA
+"Kleiberweg",NA
+"Kleiestraße","M"
+"Kleifeld",NA
+"Klein-Buchholzer Kirchweg",NA
+"Kleine Düwelstraße",NA
+"Kleine Feldstraße",NA
+"Kleine Heide",NA
+"Kleine Pfahlstraße",NA
+"Kleiner Hillen",NA
+"Kleiner Holzhägen",NA
+"Kleinertstraße","M"
+"Kleines Feld",NA
+"Kleiststraße","M"
+"Klewergarten",NA
+"Klewertweg",NA
+"Klingemannweg","M"
+"Klingenkamphof",NA
+"Klingerplatz","M"
+"Klingerstraße","M"
+"Klingsöhrstraße","M"
+"Klinkerfuesstraße","M"
+"Klöcknerstraße",NA
+"Klohestraße","M"
+"Klönebülsgang",NA
+"Klopstockstraße","M"
+"Klosterfeldstraße",NA
+"Klostergang",NA
+"Klusmannstraße","M"
+"Klusmoor",NA
+"Klusriede",NA
+"Knappenweg",NA
+"Knauerweg","M"
+"Kneippstraße",NA
+"Kneippweg","M"
+"Kniestraße",NA
+"Kniggestraße","M"
+"Knochenhauerstraße",NA
+"Knoevenagelweg","M"
+"Köbelinger Markt","F"
+"Koblenzer Straße",NA
+"Köcherstraße","M"
+"Kochstraße","M"
+"Kohlberger Straße",NA
+"Kohlrauschstraße","M"
+"Kohlweg",NA
+"Kohlwiesen",NA
+"Kohnes Kamp",NA
+"Kohnestraße","M"
+"Köhnestraße",NA
+"Köhnsenstraße","F"
+"Kohrsweg",NA
+"Kokelgasse",NA
+"Kokenstraße","M"
+"Kolberger Straße",NA
+"Kolbergstraße",NA
+"Kolbeweg","M"
+"Koldemeyerweg","F"
+"Koldinger Straße",NA
+"Kolkhof",NA
+"Kollberg",NA
+"Kollenrodts Hof",NA
+"Kollenrodtstraße","M"
+"Köllingsmoor",NA
+"Köllingsweg",NA
+"Köllnbrinkweg",NA
+"Kollrothstraße",NA
+"Kolpingstraße","M"
+"Kolumbusstraße","M"
+"Kommandanturstraße",NA
+"Konerdingstraße","F"
+"Koniferenweg",NA
+"Königsberger Ring",NA
+"Königsberger Straße",NA
+"Königseichenweg",NA
+"Königskinderweg",NA
+"Königstraße","M"
+"Königsworther Platz",NA
+"Königsworther Straße",NA
+"Konkordiastraße",NA
+"Konrad-Adenauer-Straße","M"
+"Konrad-Hänisch-Straße","M"
+"Konrad-Lorenz-Platz","M"
+"Konradstraße","M"
+"Kopenhagener Straße",NA
+"Köpenickweg","M"
+"Kopernikusstraße","M"
+"Koppeldamm",NA
+"Koppelweg",NA
+"Korallenweg",NA
+"Körnerstraße","M"
+"Kornradenstraße",NA
+"Kornstraße",NA
+"Körtingsdorf","M"
+"Körtingsdorfer Weg","M"
+"Kortumstraße","M"
+"Köselstraße",NA
+"Kösliner Weg",NA
+"Kosselhof","M"
+"Kösterecke",NA
+"Kothenstraße",NA
+"Kothöferdamm","M"
+"Kötnerhof",NA
+"Kötnerholzweg",NA
+"Kötnerreihe",NA
+"Krackeweg","M"
+"Krähenberg",NA
+"Krähenbergstraße",NA
+"Kranckestraße","M"
+"Kranichring",NA
+"Kranichzug",NA
+"Krasseltweg","M"
+"Krausenstraße","M"
+"Krebsgasse",NA
+"Kreideweg",NA
+"Kreipeweg","M"
+"Kreisstraße","M"
+"Kreithwinkel",NA
+"Krendelstraße",NA
+"Krepenstraße","M"
+"Kretschmerhof","M"
+"Kreuzburger Weg",NA
+"Kreuzbusch",NA
+"Kreuzdorn",NA
+"Kreuzkirchhof",NA
+"Kreuzriede",NA
+"Kreuzstraße",NA
+"Kreuzweg",NA
+"Kreuzwippe",NA
+"Kriegerstraße",NA
+"Kriemhildenweg",NA
+"Krokusweg",NA
+"Kronenstraße",NA
+"Kroneweg",NA
+"Kronsberger Straße",NA
+"Kronsbergstraße",NA
+"Krosigkstraße","M"
+"Krügerskamp",NA
+"Krugstraße",NA
+"Krumme Straße",NA
+"Krummer Kamp",NA
+"Krümpelweg",NA
+"Kruschhof","M"
+"Kubinhof","M"
+"Küchengartenstraße",NA
+"Kückenmühle",NA
+"Kückstraße","M"
+"Kuckucksbusch",NA
+"Kuckuckskamp",NA
+"Kugelfangtrift",NA
+"Kuhleger",NA
+"Kuhlmanns Kamp",NA
+"Kühnsstraße","M"
+"Kulmer Weg",NA
+"Kurländer Weg",NA
+"Kurt-Schumacher-Allee","M"
+"Kurt-Schumacher-Ring","M"
+"Kurt-Schumacher-Straße","M"
+"Kurt-Schwitters-Platz","M"
+"Kurze Feldstraße",NA
+"Kurze Straße",NA
+"Kurze Wanne",NA
+"Kurze Wende",NA
+"Kurze-Kamp-Straße",NA
+"Kurzer Kamp",NA
+"Küsterstraße","M"
+"Küstriner Straße",NA
+"Kütemeierweg","M"
+"Laatzener Straße",NA
+"Labyrinthweg",NA
+"Lägenfeldstraße",NA
+"Lagerstraße",NA
+"Laher Heide",NA
+"Laher Kamp",NA
+"Laher Kirchweg",NA
+"Laher-Feld-Straße",NA
+"Laheweg",NA
+"Lahriede",NA
+"Lahwiesen",NA
+"Lakefeldplatz",NA
+"Lakefeldstraße",NA
+"Lammstraße",NA
+"Lampehof",NA
+"Lampestraße","M"
+"Lampeweg",NA
+"Landsberger Weg",NA
+"Landschaftstraße",NA
+"Landwehrdamm",NA
+"Landwehrkreisel",NA
+"Landwehrriethe",NA
+"Landwehrstraße",NA
+"Lange Feldstraße",NA
+"Lange Laube",NA
+"Lange Rade",NA
+"Lange Reihe",NA
+"Lange Straße",NA
+"Lange Weihe",NA
+"Lange-Feld-Straße",NA
+"Lange-Hop-Straße",NA
+"Langenforther Platz",NA
+"Langenforther Straße",NA
+"Langenhagener Straße",NA
+"Langensalzastraße",NA
+"Langer Acker",NA
+"Langer Berg",NA
+"Langer Brink",NA
+"Langer Bruch",NA
+"Langer Krummer Kamp",NA
+"Langrederhof","F"
+"Langrederstraße","F"
+"Lankwitzweg",NA
+"Lannerweg","M"
+"Laportestraße","F"
+"Lärchenstraße",NA
+"Lärchenweg",NA
+"Lathusenstraße","F"
+"Laubaner Weg",NA
+"Lauckerthof","M"
+"Lauenauer Straße",NA
+"Lauenburger Hof",NA
+"Läuferweg",NA
+"Laurinweg",NA
+"Lausitzer Straße",NA
+"Lausitzer Wende",NA
+"Lavaterhof","M"
+"Lavendelweg",NA
+"Lavesallee","M"
+"Lavesbrücke","M"
+"Lavesplatz","M"
+"Lavesstraße","M"
+"Lebaweg",NA
+"Lechstraße",NA
+"Leddinweg","M"
+"Legienstraße","M"
+"Legionsbrücke",NA
+"Leharweg","M"
+"Lehmannstraße","M"
+"Lehmbrink",NA
+"Lehmbuschfeld",NA
+"Lehmdamm",NA
+"Lehrter Platz",NA
+"Lehrter Straße",NA
+"Lehzenstraße","M"
+"Leiblstraße","M"
+"Leibnizstraße","M"
+"Leibnizufer","M"
+"Leierhof",NA
+"Leinaustraße",NA
+"Leineblick",NA
+"Leineinsel",NA
+"Leineplatz",NA
+"Leinerandstraße",NA
+"Leinerandweg",NA
+"Leinestraße",NA
+"Leineweg",NA
+"Leinhausenpark",NA
+"Leinhäuser Weg",NA
+"Leinstraße",NA
+"Leipziger Straße",NA
+"Leipzigweg",NA
+"Leisewitzstraße","M"
+"Leistikowweg","M"
+"Lemförder Straße",NA
+"Lemmier Straße",NA
+"Lenaustraße","M"
+"Lenbachplatz","M"
+"Lenbachstraße","M"
+"Lenchen-Kunow-Weg","W"
+"Lengerichhof",NA
+"Lenthehof",NA
+"Lenther Chaussee",NA
+"Lenther Straße",NA
+"Lenzbergweg","M"
+"Leo-Rosenblatt-Weg","M"
+"Leo-Sympher-Promenade","M"
+"Leonhard-Mock-Weg","M"
+"Leonhardtstraße","M"
+"Lerchen-Allee",NA
+"Lerchenfeldstraße",NA
+"Lerchenort",NA
+"Lerchenstieg",NA
+"Lerchenweg",NA
+"Lessingstraße","M"
+"Letterhausweg","M"
+"Letterstraße",NA
+"Letterweg",NA
+"Leuningerstraße","M"
+"Leunisweg","M"
+"Leuschnerstraße","M"
+"Levester Straße",NA
+"Leynemannweg","M"
+"Liasweg",NA
+"Libellenufer",NA
+"Libellenweg",NA
+"Lichtenbergweg",NA
+"Lichtenradeweg",NA
+"Liebensteinweg",NA
+"Liebermannstraße","M"
+"Liebigstraße","M"
+"Liebrechtstraße","M"
+"Liegnitzer Straße",NA
+"Liegnitzer Weg",NA
+"Liepeweg",NA
+"Liepmannstraße","M"
+"Lieselotte-Rogge-Straße","W"
+"Liethfeld",NA
+"Ligusterweg",NA
+"Liliencronplatz","M"
+"Liliencronstraße","M"
+"Lilienstraße",NA
+"Lilienthalstraße","M"
+"Lilienweg",NA
+"Lilli-Friedemann-Ring","W"
+"Limburg-Passage","F"
+"Limmerbrunnen",NA
+"Limmerstraße",NA
+"Lina-Hähnle-Weg","W"
+"Lincolnweg","M"
+"Lindemannallee","M"
+"Lindemannstraße","M"
+"Lindenallee",NA
+"Lindener Marktplatz",NA
+"Lindener Weg",NA
+"Lindenplan",NA
+"Lindenstraße",NA
+"Lindenweg",NA
+"Lindertstraße",NA
+"Lindhorn",NA
+"Linneworth",NA
+"Linsingenstraße","M"
+"Linzer Straße",NA
+"Lippertweg","M"
+"Lisbethstraße","W"
+"Lise-Meitner-Straße","W"
+"Lissabonner Allee",NA
+"Lister Damm",NA
+"Lister Hof A",NA
+"Lister Hof B",NA
+"Lister Kirchweg",NA
+"Lister Meile",NA
+"Lister Passage",NA
+"Lister Platz",NA
+"Lister Straße",NA
+"Lister-Meilen-Passage",NA
+"Listerbusch",NA
+"Loccumer Hof",NA
+"Loccumer Straße",NA
+"Lodemannweg","M"
+"Lodyweg","M"
+"Loebensteinstraße",NA
+"Lohausener Straße",NA
+"Lohfeldweg",NA
+"Lohgrund",NA
+"Lohkamp",NA
+"Lohmeyerhof","M"
+"Löhrweg",NA
+"Lohweg",NA
+"Lola-Fischel-Straße","W"
+"London Street",NA
+"Lönsstraße","M"
+"Lönsweg","M"
+"Loosweg","M"
+"Löpentinstraße","M"
+"Lorbeerrosenweg",NA
+"Lortzingstraße","M"
+"Loruper Weg",NA
+"Lothringer Straße",NA
+"Lotte-Burghardt-Weg","W"
+"Lotte-Gleichmann-Weg","W"
+"Lotte-Lemke-Straße","W"
+"Louise-Schroeder-Straße","W"
+"Löwenberger Straße",NA
+"Löwenstraße",NA
+"Löwenzahnweg",NA
+"Loydbrunnenweg",NA
+"Lubowitzweg",NA
+"Lüchower Straße",NA
+"Luckenwalder Straße",NA
+"Lückewiens Hof",NA
+"Lüdenstraße",NA
+"Lüderitzwinkel","F"
+"Lüdersworth",NA
+"Lüderweg","M"
+"Ludolf-Ahrens-Straße","M"
+"Ludolf-Knigge-Straße","M"
+"Ludwig-Barnay-Straße","M"
+"Ludwig-Bruns-Straße","M"
+"Ludwig-Gleue-Weg","M"
+"Ludwig-Jahn-Straße","M"
+"Ludwig-Richter-Straße","M"
+"Ludwig-Sievers-Ring","M"
+"Ludwig-Thoma-Straße","M"
+"Ludwigsaue","M"
+"Ludwigstraße","M"
+"Lüerstraße","M"
+"Luheweg",NA
+"Luhnenstraße","F"
+"Lühnische Straße",NA
+"Luise-Blume-Straße","W"
+"Luise-Finke-Weg","W"
+"Luise-Kaschnitz-Weg","W"
+"Luise-Westkirch-Weg","W"
+"Luisenstraße","W"
+"Luiseweg","W"
+"Lülfingweg","M"
+"Lunapark",NA
+"Lundenweg",NA
+"Lüneburger Damm",NA
+"Lüssenhopstraße","F"
+"Lütgertweg","M"
+"Lutherstraße","M"
+"Lütkenkamp",NA
+"Lützekenstraße","F"
+"Lützerodestraße","W"
+"Lützowstraße","M"
+"Lyckweg",NA
+"Lyonel-Feininger-Weg","M"
+"Lyraweg","M"
+"Maaßweg","M"
+"Machandelweg",NA
+"Mädlerstraße","M"
+"Magdeburger Straße",NA
+"Magistratsweg",NA
+"Magnusstraße","M"
+"Mahlerstraße",NA
+"Mahlrockweg",NA
+"Mahlsdorfweg",NA
+"Maiblumenweg",NA
+"Maigoldweg",NA
+"Mailänder Straße",NA
+"Mainzer Straße",NA
+"Malagaweg",NA
+"Mallnitzstraße",NA
+"Malmedyer Straße",NA
+"Malmweg",NA
+"Malortiestraße","M"
+"Malvenstraße",NA
+"Malwine-Enckhausen-Weg","W"
+"Mandelslohstraße","F"
+"Maneckestraße","M"
+"Mannheimer Straße",NA
+"Manrade",NA
+"Mansfeldstraße","M"
+"Manteuffelstraße","M"
+"Marahrensweg","M"
+"Märchenweg",NA
+"Mardalstraße",NA
+"Margarethe-Gehrig-Weg","W"
+"Margarethe-Höhne-Straße","W"
+"Margarethe-und-Max-Rüdenberg-Platz","W"
+"Margeritenweg","W"
+"Margot-Büttner-Weg","W"
+"Margot-Matthias-Straße","W"
+"Maria-Caspar-Filser-Straße","W"
+"Maria-Montessori-Weg","W"
+"Maria-Suszyńska-Bartmann-Weg","W"
+"Mariandelsteg",NA
+"Marianne-Adrian-Weg","W"
+"Marianne-Baecker-Allee","W"
+"Marie-Curie-Straße","W"
+"Marie-Jahn-Straße","W"
+"Marie-Jorns-Ring","W"
+"Marienbader Straße",NA
+"Marienburger Straße",NA
+"Marienburger Weg",NA
+"Marienstraße","W"
+"Marienwerder Straße",NA
+"Marienwerderstraße",NA
+"Marion-Donovan-Straße","W"
+"Markgrafstraße","M"
+"Märkischer Weg",NA
+"Marktpatz",NA
+"Marktstraße",NA
+"Mars-la-Tour-Straße",NA
+"Marschnerstraße","M"
+"Marsstraße",NA
+"Martel-Schwichtenberg-Straße","W"
+"Martensplatz","M"
+"Martha-Wissmann-Platz","W"
+"Marthastraße","W"
+"Martin-Hanske-Weg","M"
+"Martin-Luther-Straße","M"
+"Martin-Niemöller-Weg","M"
+"Martin-von-Holle-Weg","M"
+"Martinihof","M"
+"Martinstraße","M"
+"Mary-Wigman-Weg","W"
+"Maschdamm",NA
+"Maschfeld",NA
+"Maschpark-Brücke",NA
+"Maschstraße",NA
+"Maschwiesen",NA
+"Maßmannstraße","M"
+"Masurenweg",NA
+"Mathildenstraße","W"
+"Mattfeldstraße","F"
+"Matthäikirchstraße","M"
+"Matthiasstraße","M"
+"Matzdorfer Weg",NA
+"Maurerstraße",NA
+"Max-Born-Weg","M"
+"Max-Eyth-Straße","M"
+"Max-Kuhlemann-Straße","M"
+"Max-Müller-Straße","M"
+"Max-Planck-Straße","M"
+"Max-von-Laue-Ring","M"
+"Max-von-Laue-Straße","M"
+"Maximilian-Kolbe-Weg","M"
+"Meckauerweg","M"
+"Mecklenburger Straße",NA
+"Mecklenheidestraße",NA
+"Meelbaumstraße","M"
+"Meersmannufer","M"
+"Meffertstraße","M"
+"Mehlstraße",NA
+"Meiergarten",NA
+"Meierwiese",NA
+"Meierwiesen",NA
+"Meisen-Allee",NA
+"Meisenbachweg",NA
+"Meisenweg",NA
+"Meisenwinkel",NA
+"Meißener Hof",NA
+"Meitnerstraße","W"
+"Melanchthonstraße","M"
+"Meldaustraße","M"
+"Mellendorfer Straße",NA
+"Memeler Straße",NA
+"Mendelssohnstraße","M"
+"Mengendamm",NA
+"Menschingstraße","M"
+"Menzelstraße","M"
+"Meppener Straße",NA
+"Meraner Straße",NA
+"Mercedesstraße",NA
+"Merckerstraße","M"
+"Mergelfeld",NA
+"Mergenthalerstraße","M"
+"Mergenthalerweg","M"
+"Merianweg","M"
+"Merkurring","M"
+"Merkurstraße","M"
+"Merkurweg","M"
+"Merowingerweg",NA
+"Merziger Straße",NA
+"Mesmerweg","M"
+"Mesters Hof",NA
+"Meterstraße",NA
+"Mettlacher Straße",NA
+"Metzer Straße",NA
+"Metzhof","M"
+"Meyenfeldstraße","F"
+"Meyerhofweg","M"
+"Mibellenweg",NA
+"Michaelisweg","M"
+"Mike-Gehrke-Promenade","M"
+"Milanstraße",NA
+"Milanweg",NA
+"Milchgang",NA
+"Milchstraße",NA
+"Militscher Weg",NA
+"Millöckerweg","M"
+"Mimmi-Fuhlrott-Gang","W"
+"Minister-Stüve-Straße","M"
+"Minna-von-Mädler-Weg","W"
+"Mirabellengarten",NA
+"Mirabellenweg",NA
+"Misburg",NA
+"Misburger Straße",NA
+"Misburger Weg",NA
+"Mispelweg",NA
+"Mistelweg",NA
+"Mithoffstraße","M"
+"Mittelallee",NA
+"Mitteldamm",NA
+"Mittelstraße",NA
+"Mittelweg",NA
+"Möckernstraße",NA
+"Modersohnweg","W"
+"Mogelkenstraße","M"
+"Möhlenbrinkstraße",NA
+"Mohnweg",NA
+"Mohrmannstraße","M"
+"Molanusweg","M"
+"Moldauweg",NA
+"Möllerkamp",NA
+"Molthanstraße","M"
+"Moltkeplatz","M"
+"Mommsenstraße","M"
+"Mönchekamp",NA
+"Mönckebergallee",NA
+"Mönnighof","M"
+"Moorhoffstraße","M"
+"Moorkamp",NA
+"Moorstraße",NA
+"Moorstraße 13",NA
+"Moorstraße 13 a - d",NA
+"Moorwaldweg",NA
+"Moorweg",NA
+"Moosbergstraße",NA
+"Moosgrund",NA
+"Moosweg",NA
+"Morgensonne",NA
+"Morgensternweg","M"
+"Mörikestraße","M"
+"Moritz-Simon-Weg","M"
+"Mörlinsstraße","F"
+"Morwegsgasse","F"
+"Moseldamm",NA
+"Möwengrund",NA
+"Möwenkamp",NA
+"Mozartstraße","M"
+"Müdener Weg",NA
+"Müggenweg",NA
+"Müggenwinkel",NA
+"Mühenkamp",NA
+"Mühlenbergsweg",NA
+"Mühleneck",NA
+"Mühlenfeld",NA
+"Mühlengrund",NA
+"Mühlenholzweg",NA
+"Mühlenrär",NA
+"Mühlenstraße",NA
+"Mühlenweg",NA
+"Mühlenwinkel",NA
+"MUK Straße",NA
+"Müllinger Straße",NA
+"Münchener Straße",NA
+"Münchhausenstraße","F"
+"Münchner Straße",NA
+"Münterstraße","M"
+"Munzeler Straße",NA
+"Munzelwiese",NA
+"Münzstraße",NA
+"Musäusweg","M"
+"Muschelweg",NA
+"Mushop",NA
+"Musikweg",NA
+"Muswiller Weg",NA
+"Muthesiusweg","M"
+"Nachmittagsweg",NA
+"Nachtbleek",NA
+"Nachtigallenweg",NA
+"Nachtigallweg",NA
+"Nachtigalstraße","M"
+"Nackenberger Straße",NA
+"Namedorfstraße","F"
+"Namibia-Allee",NA
+"Nansenufer","M"
+"Narzissenstraße",NA
+"Narzissenweg",NA
+"Naugarder Weg",NA
+"Nauheimer Straße",NA
+"Naumburger Straße",NA
+"Neanderstraße","F"
+"Neckarstraße",NA
+"Nedderfeldstraße",NA
+"Neddernfeld",NA
+"Nedderntor",NA
+"Negenstraße",NA
+"Neherfeld",NA
+"Neidenburger Weg",NA
+"Neisser Straße",NA
+"Neisser Weg",NA
+"Neisseweg",NA
+"Nelkenstraße",NA
+"Nelkenweg",NA
+"Nenndorfer Chaussee",NA
+"Nenndorfer Landstraße",NA
+"Nenndorfer Platz",NA
+"Nenndorfer Straße",NA
+"Neptunhof","M"
+"Neptunring","M"
+"Nestroyweg","M"
+"Nettelbeckstraße","M"
+"Nettemannstraße","F"
+"Netzeweg",NA
+"Neue Sachlichkeit",NA
+"Neue Speicherstraße",NA
+"Neue Straße",NA
+"Neue Wiesen",NA
+"Neue Wietze",NA
+"Neue-Land-Straße",NA
+"Neuer Landweg",NA
+"Neuer Weg",NA
+"Neues Haus",NA
+"Neunkirchener Platz",NA
+"Neusser Straße",NA
+"Neustädter Kirchhof",NA
+"Neustädter Straße",NA
+"Neuwarmbüchener Straße",NA
+"Nibelungenweg",NA
+"Nico-Flatau-Platz","M"
+"Niddener Weg",NA
+"Niebüller Weg",NA
+"Niederaue",NA
+"Niederfeldstraße",NA
+"Niederholz",NA
+"Niederrader Allee",NA
+"Niedersachsenring",NA
+"Niedersachsenstraße",NA
+"Niemeyerstraße","M"
+"Nienburger Straße",NA
+"Nienhagener Straße",NA
+"Nieschlagstraße","F"
+"Niggemannweg","M"
+"Niki-de-Saint-Phalle-Promenade","W"
+"Nikolaas-Tinbergen-Weg","M"
+"Nikolai-Fuchs-Straße","M"
+"Nikolaistraße","M"
+"Nikolaus-Otto-Straße","M"
+"Nils-Holgersson-Ring","M"
+"Nitzschkeweg","M"
+"Nobelring","M"
+"Noldestraße","M"
+"Nölkehof","F"
+"Nollendorfstraße",NA
+"Noltemeyerbrücke","M"
+"Noltestraße","M"
+"Nordallee",NA
+"Nordenkamp",NA
+"Norderneyer Weg",NA
+"Nordfelder Reihe",NA
+"Nordfeldstraße",NA
+"Nordhorner Straße",NA
+"Nordlicht",NA
+"Nordpassage",NA
+"Nordring",NA
+"Nordstern",NA
+"Nordstraße",NA
+"Nordwaldstraße",NA
+"Normandiering",NA
+"Normannische Straße",NA
+"Northeimer Wende",NA
+"Notaufnahme Henriettenstift",NA
+"Nötelweg","F"
+"Nottelmannufer","M"
+"Nürnberger Straße",NA
+"Nussbaumweg",NA
+"Nußriede",NA
+"Obentrautstraße","M"
+"Obere Reihe",NA
+"Obere Ziegelei",NA
+"Oberricklinger Tor",NA
+"Oberstraße",NA
+"Odensehof",NA
+"Odenwaldstraße",NA
+"Odeonstraße",NA
+"Oderstraße",NA
+"Oehlkersweg","M"
+"Oeltzenstraße","M"
+"Oertzeweg",NA
+"Oesterleystraße","M"
+"Offenbachstraße","M"
+"Offensteinstraße","M"
+"Ohebruchstraße",NA
+"Ohefeld",NA
+"Ohefeldweg",NA
+"Oheriedentrift",NA
+"Ohestraße",NA
+"Ohlauer Straße",NA
+"Ohlendorfer Weg",NA
+"Oisseler Straße",NA
+"Okerweg",NA
+"Olbersstraße","M"
+"Olbrichtstraße","M"
+"Oldekopstraße","M"
+"Oldenburger Allee",NA
+"Oleanderweg",NA
+"Omptedastraße","F"
+"Onnengaweg","M"
+"Opelstraße","M"
+"Oppelner Straße",NA
+"Oppelner Weg",NA
+"Oppenbornstraße","F"
+"Oppersheide",NA
+"Orchideenweg",NA
+"Orffstraße",NA
+"Orionhof",NA
+"Orli-Wald-Allee","W"
+"Orthop",NA
+"Ortmannweg","M"
+"Ortskamp",NA
+"Oskar-Winter-Straße","M"
+"Osnabrücker Straße",NA
+"Ossenkoppweg",NA
+"Ossietzkyring","M"
+"Ostafrikastraße",NA
+"Östbergweg","M"
+"Ostdeutsche Straße",NA
+"Osterfelddamm",NA
+"Osterforth",NA
+"Ostergrube",NA
+"Osterholzweg",NA
+"Osteriede",NA
+"Ostermannstraße",NA
+"Ostermeierstraße","F"
+"Osteroder Weg",NA
+"Osterriedestraße",NA
+"Osterstraße",NA
+"Osterwalder Straße",NA
+"Osterwalder Wende",NA
+"Ostfeldstraße",NA
+"Ostlandstraße",NA
+"Ostlandweg",NA
+"Ostwender Straße",NA
+"Ottenshof","M"
+"Ottenstraße","F"
+"Otternplan",NA
+"Otto-Blum-Hof","M"
+"Otto-Brenner-Straße","M"
+"Otto-Ehrhardt-Straße","M"
+"Otto-Hahn-Straße","M"
+"Otto-Künnemann-Straße","M"
+"Otto-Lilienthal-Straße","M"
+"Otto-Rheinhold-Weg","M"
+"Otto-Wels-Straße","M"
+"Ottostraße","M"
+"Ottweilerstraße",NA
+"Overbeckstraße","M"
+"Owiedenfeldstraße",NA
+"Paderborner Straße",NA
+"Pagelsdorffweg","M"
+"Pagenburgweg",NA
+"Pagenstraße",NA
+"Palmstraße",NA
+"Pannenflickergang",NA
+"Pänner-Schuster-Weg","M"
+"Papageienbrücke",NA
+"Papendieksfeld",NA
+"Papenkamp",NA
+"Papenriede",NA
+"Papenstieg",NA
+"Papenwinkel",NA
+"Pappelbrink",NA
+"Pappelstraße",NA
+"Pappelteich",NA
+"Pappelweg",NA
+"Pappelwiese",NA
+"Paracelsusweg","M"
+"Park-der-Sinne-Weg",NA
+"Parkhaus Einfahrt",NA
+"Parkplatz KGV Lange-Hop",NA
+"Parkstraße",NA
+"Parlweg","F"
+"Parsevalstraße","M"
+"Pascalstraße","M"
+"Pasemannweg","M"
+"Paßweg","F"
+"Pasteurallee","M"
+"Pastor-Bartels-Weg","M"
+"Pastor-Gerhard-Dittrich-Weg","M"
+"Pastor-Kuhlgatz-Weg","M"
+"Pastor-Wehr-Weg","M"
+"Pastorenkamp",NA
+"Pastorenweg",NA
+"Paul-Ducros-Straße","M"
+"Paul-Ehrlich-Straße","M"
+"Paula-Nordhoff-Straße","W"
+"Paulingstraße","F"
+"Paulstraße","M"
+"Pavillonstraße",NA
+"Pegasusgasse",NA
+"Peiner Straße",NA
+"Pelikanplatz",NA
+"Pelikanstraße",NA
+"Pelikanweg",NA
+"Peperfeld",NA
+"Perelsweg","M"
+"Perlstraße",NA
+"Perpignan-Weg",NA
+"Pertzstraße","M"
+"Pestalozzistraße","M"
+"Pestalozziweg","M"
+"Peter-Köster-Straße","M"
+"Peter-Rosegger-Straße","M"
+"Peter-Schneider-Weg","M"
+"Petermannstraße",NA
+"Petersenstraße",NA
+"Petersilienstraße",NA
+"Peterskamp","M"
+"Petersstraße","F"
+"Peterswaldstraße","W"
+"Petersweg",NA
+"Petit-Couronne-Straße",NA
+"Petra-Kelly-Straße","W"
+"Petristraße","M"
+"Pettenkoferstraße","M"
+"Pfalzstraße",NA
+"Pfarrlandplatz",NA
+"Pfarrlandstraße",NA
+"Pfarrstraße",NA
+"Pferdestraße",NA
+"Pferdeturm",NA
+"Pfirsichgarten",NA
+"Pfirsichweg",NA
+"Pfitznerstraße","M"
+"Pflügerstraße",NA
+"Philipsbornstraße","M"
+"Philosophenpfad",NA
+"Pieperstraße","M"
+"Pilotystraße","M"
+"Pinkenburger Gang",NA
+"Pinkenburger Straße",NA
+"Pirmasenser Straße",NA
+"Pirolweg",NA
+"Planckstraße","M"
+"Planetenring",NA
+"Planetenstraße",NA
+"Plantagenstraße",NA
+"Platanenhof",NA
+"Platenstraße","M"
+"Plathnerstraße","M"
+"Platz der Kaufleute",NA
+"Platz der Mecklenburgischen",NA
+"Plauener Straße",NA
+"Plaza de Rosalia","W"
+"Plengestraße","F"
+"Plettenbergstraße","M"
+"Plinkestraße","F"
+"Plüschowstraße","M"
+"Plutohof","M"
+"Podbielskistraße","M"
+"Podbipassage",NA
+"Poelzigweg","M"
+"Poggenaue",NA
+"Poggendiek",NA
+"Poggenkamp",NA
+"Polziner Weg",NA
+"Pommernstraße",NA
+"Pontenhof","M"
+"Porschestraße","M"
+"Porscheweg","M"
+"Porstweg",NA
+"Portlandstraße",NA
+"Posener Straße",NA
+"Posenweg",NA
+"Posthornstraße",NA
+"Postkamp",NA
+"Postkamp 1",NA
+"Postkamp 2",NA
+"Postkamp 3",NA
+"Potsdamer Straße",NA
+"Praetoriusweg","M"
+"Prankeweg",NA
+"Prießweg","F"
+"Primelweg",NA
+"Prinz-Albrecht-Ring","M"
+"Prinzenstraße","M"
+"Professor-Plühr-Straße","M"
+"Promenade im Hauptbahnhof",NA
+"Prüßentrift","M"
+"Prüßmannstraße","M"
+"Prußweg","M"
+"Pumpstraße",NA
+"Puritzweg","M"
+"Pyrmonter Straße",NA
+"Quantelholz",NA
+"Quedlinburger Weg",NA
+"Quellengrund",NA
+"Quendelring",NA
+"Querstraße",NA
+"Querweg",NA
+"Quesenbühlsgang",NA
+"Questwiesen",NA
+"Quirrestraße","F"
+"Quittengarten",NA
+"Quittenweg",NA
+"Raabestraße","M"
+"Rabenhorst",NA
+"Rabenstieg",NA
+"Rabenwinkel",NA
+"Radebeuler Hof",NA
+"Raffaelstraße","M"
+"Raffelbergweg","M"
+"Rahlfskamp","F"
+"Rahlfsweg",NA
+"Rährweg",NA
+"Raiffeisenstraße","M"
+"Raimundstraße","M"
+"Rainer-Maria-Rilke-Straße","M"
+"Raland",NA
+"Rambergstraße","M"
+"Rampenstraße",NA
+"Ranesstraße",NA
+"Rankenstraße",NA
+"Rapunzelweg","W"
+"Raschplatzhochstraße","M"
+"Rathausplatz",NA
+"Rathenaustraße","M"
+"Rathingstraße","F"
+"Ratiborer Weg",NA
+"Ratswiese",NA
+"Raupertstraße","F"
+"Rauschenplatstraße","W"
+"Rautenstraße",NA
+"Ravelstraße",NA
+"real Drive In",NA
+"Rebhuhnfeld",NA
+"Rebhuhnweg",NA
+"Redeckerstraße","M"
+"Redenstraße",NA
+"Regaweg",NA
+"Regenwalder Straße",NA
+"Rehagen",NA
+"Rehbergstraße","M"
+"Rehbockstraße","M"
+"Rehbruch",NA
+"Rehbuschfeld",NA
+"Rehkamp",NA
+"Rehmenbreiten",NA
+"Rehmer Feld",NA
+"Rehwinkel",NA
+"Rehwinkelweg",NA
+"Reichenberger Straße",NA
+"Reicherthof","M"
+"Reichhelmstraße","M"
+"Reichweinweg","M"
+"Reiherstieg",NA
+"Reiherweg",NA
+"Reinbothweg","M"
+"Reineckeweg","F"
+"Reinekestraße","M"
+"Reinhold-Schleese-Straße","M"
+"Reinholdstraße","M"
+"Rektor-Lübmann-Weg","M"
+"Remarqueweg","M"
+"Rembrandtstraße","M"
+"Rembrandtweg","M"
+"Rendsburger Straße",NA
+"Renneberghof","F"
+"Rennefeldstraße",NA
+"Rennstieg",NA
+"Resedastraße",NA
+"Resser Straße",NA
+"Reßmeyerhof","F"
+"Rethener Straße",NA
+"Rettungsstollen",NA
+"Rettungsweg",NA
+"Reuteranger",NA
+"Reuterdamm",NA
+"Reutergartenweg",NA
+"Reuterstraße","M"
+"Reuterwiese",NA
+"Revaler Straße",NA
+"Rheinstraße",NA
+"Rhododendronweg",NA
+"Rhönweg",NA
+"Rhumeweg",NA
+"Ricarda-Huch-Weg","W"
+"Richard-Hoppe-Weg","M"
+"Richard-Lattorf-Straße","M"
+"Richard-Partzsch-Weg","M"
+"Richard-Wagner-Straße","M"
+"Richard-Wassermann-Weg","M"
+"Richartzstraße","M"
+"Richthofenstraße","M"
+"Ricklinger Kreisel",NA
+"Ricklinger Stadtweg",NA
+"Ricklinger Straße",NA
+"Riechersstraße","F"
+"Rieckenbergstraße","M"
+"Riedgrasweg",NA
+"Riedkamp",NA
+"Riedweg",NA
+"Riehefeld",NA
+"Riemer Hof",NA
+"Riepestraße","F"
+"Riepolskamp",NA
+"Riethorst",NA
+"Rigaer Straße",NA
+"Rimpaustraße","M"
+"Ringelnatzweg","M"
+"Ringstraße",NA
+"Rintelner Straße",NA
+"Rischkamp",NA
+"Rischweg",NA
+"Rischwiesen",NA
+"Ritter-Brüning-Straße","M"
+"Ritterspornweg",NA
+"Ritterstraße",NA
+"Robert-Bosch-Straße","M"
+"Robert-Enke-Straße","M"
+"Robert-Hesse-Straße","M"
+"Robert-Koch-Platz","M"
+"Robert-Koch-Straße","M"
+"Robert-Stoffert-Straße","M"
+"Robert-Weise-Straße","M"
+"Robertstraße","M"
+"Robinienweg",NA
+"Röblingweg","M"
+"Rodbraken",NA
+"Rodbrakenhof",NA
+"Rodelbahn",NA
+"Rodenberger Straße",NA
+"Rodenstraße","M"
+"Roderbruchstraße",NA
+"Rodewaldstraße",NA
+"Rodewinkel",NA
+"Roemerhof","M"
+"Roesebeckstraße","M"
+"Roggenkamp",NA
+"Rohdehof",NA
+"Rohlfsstraße","M"
+"Rohrammerweg",NA
+"Röhrbeinweg","F"
+"Rohrdiek",NA
+"Röhrichtweg",NA
+"Rohrskamp",NA
+"Rohrweg",NA
+"Rolandstraße","M"
+"Rolover Kirchweg",NA
+"Römerweg",NA
+"Rominteweg",NA
+"Roncallihof","M"
+"Rönnegang",NA
+"Rönnehof",NA
+"Ronnenberger Straße",NA
+"Röntgenstraße","M"
+"Roonstraße","M"
+"Röpkestraße","M"
+"Rosa-Luxemburg-Straße","W"
+"Rosalind-Franklin-Allee","W"
+"Roschersburg",NA
+"Roscherstraße","M"
+"Rose-Senger-Straße","W"
+"Roseggerstraße","M"
+"Röselerstraße","M"
+"Rosemeyerstraße","F"
+"Rosenallee",NA
+"Rosenbergplatz","M"
+"Rosenbergstraße","M"
+"Rosenbuschgang","M"
+"Rosenbuschweg","M"
+"Roseneck",NA
+"Rosenfeststraße",NA
+"Rosengarten",NA
+"Rosenhain",NA
+"Rosenrotweg",NA
+"Rosenstraße",NA
+"Rosenthalweg","M"
+"Rosenweg",NA
+"Roskildehof",NA
+"Rosmarinhof",NA
+"Rosmarinweg",NA
+"Rossiniweg","M"
+"Rossitter Weg",NA
+"Roßkamphof",NA
+"Roßkampstraße",NA
+"Roßmühle",NA
+"Rostocker Straße",NA
+"Rotbuchenallee",NA
+"Rotbuchenweg",NA
+"Rotdornweg",NA
+"Rote Reihe",NA
+"Rotekreuzstraße",NA
+"Rotenburger Straße",NA
+"Roter Sand",NA
+"Roter Weg",NA
+"Rotermundstraße","F"
+"Rothaarweg",NA
+"Rothenfelder Straße",NA
+"Rothwiese",NA
+"Rotkäppchenweg","W"
+"Rotkehlchenweg",NA
+"Röttgenweg",NA
+"Röttgerstraße","M"
+"Rottkamp",NA
+"Rouenweg",NA
+"Rübekamp",NA
+"Rubensstraße","M"
+"Rübezahlhof",NA
+"Rübezahlplatz",NA
+"Rückertstraße","M"
+"Rüdenbergweg","M"
+"Rüdigerweg",NA
+"Rudolf-Diesel-Straße","M"
+"Rudolf-Diesel-Weg","M"
+"Rudolf-Harbig-Weg","M"
+"Rudolf-Hillebrecht-Platz","M"
+"Rudolf-Pichlmayr-Straße","M"
+"Rudolf-von-Bennigsen-Ufer","M"
+"Rudolf-Wittrock-Straße","M"
+"Rudolfstraße","M"
+"Rudorffstraße",NA
+"Rue de Gent",NA
+"Rügener Straße",NA
+"Rühlmannstraße","M"
+"Rühmkorffstraße","M"
+"Rumannstraße","M"
+"Rumpelstilzchenweg","M"
+"Runde Straße",NA
+"Rundestraße","M"
+"Rundshorn",NA
+"Rupsteinstraße","M"
+"Rüsterburg",NA
+"Rutenbergstraße",NA
+"Rüterwiese",NA
+"Saaleweg",NA
+"Saarbrückener Straße",NA
+"Saarstraße",NA
+"Saarweg",NA
+"Sabine-Gerke-Weg","W"
+"Sachsenhain",NA
+"Sachsenhof",NA
+"Sackmannstraße","M"
+"Sackstraße",NA
+"Sadebuschstraße",NA
+"Safariweg",NA
+"Saganer Weg",NA
+"Sahlkamp",NA
+"Sahlkampmarkt",NA
+"Salamancaweg",NA
+"Salbeiweg",NA
+"Saldernstraße",NA
+"Salfeldstraße","M"
+"Salinenstraße",NA
+"Sallstraße",NA
+"Salzburger Straße",NA
+"Salzdetfurther Straße",NA
+"Salzhemmendorfer Straße",NA
+"Salzmannstraße","M"
+"Salzwedeler Hof",NA
+"Salzwedeler Straße",NA
+"Salzweg",NA
+"Salzwiesen",NA
+"Samlandweg",NA
+"Sandbirkenwende",NA
+"Sandbrink",NA
+"Sanddorn",NA
+"Sanddornstraße",NA
+"Sanddornweg",NA
+"Sandkamp",NA
+"Sandsteinweg",NA
+"Sandstraße",NA
+"Sandweg",NA
+"Sankt-Florian-Weg","M"
+"Sankt-Ingbert-Weg","M"
+"Sankt-Wendel-Weg","M"
+"Sarstedter Straße",NA
+"Sattelhof",NA
+"Sattlerstraße",NA
+"Saturnring","M"
+"Saturnstraße","M"
+"Sauerbruchstraße","M"
+"Sauerbruchweg",NA
+"Sauerdorn",NA
+"Sauerweinstraße","M"
+"Savannenweg",NA
+"Schacht-Albert-Ring","M"
+"Schachtebeckweg","M"
+"Schackstraße","M"
+"Schäfer-Struck-Weg",NA
+"Schäferbergstraße",NA
+"Schäferdamm",NA
+"Schäfereiweg",NA
+"Schäfertrift",NA
+"Schäferweg",NA
+"Schaftrift",NA
+"Schaperplatz","M"
+"Scharnhorststraße","M"
+"Scharnikaustraße","M"
+"Schaufelder Straße",NA
+"Schaukelweg",NA
+"Schaumanns Hof",NA
+"Schaumannweg","F"
+"Schaumburgstraße","M"
+"Scheelenkamp",NA
+"Scheffelfeld",NA
+"Scheffelstraße","M"
+"Scheibenstandsweg",NA
+"Scheidestraße",NA
+"Schellhornfeld",NA
+"Schellhornweg",NA
+"Schellingstraße","M"
+"Schenkendorfstraße","M"
+"Scherensliepergang",NA
+"Schieferkamp",NA
+"Schierholzstraße",NA
+"Schierker Weg",NA
+"Schiffgraben",NA
+"Schiffhornfeld",NA
+"Schildhof",NA
+"Schildtstraße","M"
+"Schilfgrund",NA
+"Schilfkamp",NA
+"Schilfweg",NA
+"Schillerstraße","M"
+"Schillstraße","M"
+"Schipworden",NA
+"Schlägerstraße","M"
+"Schlahdekamp",NA
+"Schlangeweg","M"
+"Schlegelplatz","M"
+"Schlegelstraße","M"
+"Schlehengarten",NA
+"Schlehenweg",NA
+"Schleidenstraße","M"
+"Schleiermacherstraße","M"
+"Schlenderhanweg",NA
+"Schlesische Straße",NA
+"Schleswiger Straße",NA
+"Schlieffenstraße","M"
+"Schlorumpfsweg",NA
+"Schloßberger Straße",NA
+"Schloßbrücke",NA
+"Schlosserstraße",NA
+"Schloßstraße",NA
+"Schloßwender Straße",NA
+"Schlüsselblumenweg",NA
+"Schmale Wietze",NA
+"Schmedesstraße","WM"
+"Schmedesweg",NA
+"Schmetterlingswende",NA
+"Schmiedeberg",NA
+"Schmiedeberger Straße",NA
+"Schmiedegang",NA
+"Schmiedestraße",NA
+"Schmiedeweg",NA
+"Schmöckwitzweg",NA
+"Schnabelstraße","M"
+"Schneckenburgerstraße","M"
+"Schneckenweg",NA
+"Schneewittchenweg",NA
+"Schneidemühler Weg",NA
+"Schneiderberg",NA
+"Schnepfenweg",NA
+"Schneppenhorststraße","M"
+"Schneverdinger Weg",NA
+"Schnuckentrift",NA
+"Scholandstraße","M"
+"Schollweg","WM"
+"Scholvinstraße","M"
+"Schönbergstraße","M"
+"Schöndorfhof","M"
+"Schönebecker Allee",NA
+"Schönefelder Straße",NA
+"Schopenhauerstraße","M"
+"Schopenhauerweg",NA
+"Schörlingstraße","M"
+"Schraderstraße","M"
+"Schreberallee","M"
+"Schreberweg",NA
+"Schröterstraße","M"
+"Schubertstraße","M"
+"Schubertweg","M"
+"Schuchhardtweg","M"
+"Schuhstraße",NA
+"Schulenburger Landstraße",NA
+"Schulenburger Mühle",NA
+"Schulstraße",NA
+"Schulweg",NA
+"Schulwinkel",NA
+"Schulze-Delitzsch-Straße","M"
+"Schulzenstraße",NA
+"Schumannstraße","M"
+"Schumannweg","M"
+"Schünbusch",NA
+"Schünemannplatz","M"
+"Schuppertweg","M"
+"Schusterbrink",NA
+"Schüttlerstraße","W"
+"Schüttorfer Straße",NA
+"Schützenallee",NA
+"Schützenstraße",NA
+"Schützenweg",NA
+"Schwabenstraße",NA
+"Schwalbenflucht",NA
+"Schwalbenweg",NA
+"Schwalenberger Straße",NA
+"Schwanenkamp",NA
+"Schwanenring",NA
+"Schwarmstedter Straße",NA
+"Schwarzdorn",NA
+"Schwarze Flage",NA
+"Schwarze Heide",NA
+"Schwarze Worth",NA
+"Schwarzenberger Weg",NA
+"Schwarzer Bär",NA
+"Schwarzer Weg",NA
+"Schwarzwaldstraße",NA
+"Schwedenpfad",NA
+"Schweidnitzer Weg",NA
+"Schwemannstraße","F"
+"Schwerdtmannweg",NA
+"Schweriner Platz",NA
+"Schweriner Straße",NA
+"Schwesternhausstraße",NA
+"Schwindstraße","M"
+"Seckbruch",NA
+"Seckbruchstraße",NA
+"Sedanstraße",NA
+"Seeadlerring",NA
+"Seebachhof","M"
+"Seegershof","M"
+"Seegrasweg",NA
+"Seelhorster Allee",NA
+"Seelhorster Platz",NA
+"Seelhorststraße",NA
+"Seelzer Straße",NA
+"Seerosenstraße",NA
+"Seerosenweg",NA
+"Seeschwalbenweg",NA
+"Seestraße","F"
+"Sehnder Straße",NA
+"Seidelbastweg",NA
+"Seidelstraße","M"
+"Seifeldstraße",NA
+"Seilerstraße",NA
+"Seitzstraße","M"
+"Seligmannallee","M"
+"Selma-Lagerlöf-Weg","W"
+"Selmastraße","W"
+"Semmelweisweg","M"
+"Senator-Bauer-Straße","M"
+"Senator-Eggers-Weg","M"
+"Senefelderstraße","M"
+"Senefelderweg","M"
+"Senior-Blumenberg-Gang","M"
+"Sennieweg",NA
+"Sertürnerstraße","M"
+"Seufzerallee",NA
+"Seumestraße","M"
+"Sextrostraße","M"
+"Seydlitzstraße","M"
+"Shepton-Mallet-Ring",NA
+"Sibeliusstraße","M"
+"Sibeliusweg","M"
+"Sichelstraße","M"
+"Sickenberghof","M"
+"Sieben-Trappen-Straße",NA
+"Siebenschönweg",NA
+"Siebertalstraße",NA
+"Siebstraße","M"
+"Siecum",NA
+"Siedlerstraße",NA
+"Siedlerweg",NA
+"Siedlung",NA
+"Siegelweg","M"
+"Siegesstraße",NA
+"Siegfriedplatz","M"
+"Siegfriedweg","M"
+"Siegmundstraße","M"
+"Siemensstraße","M"
+"Siemerdingstraße","M"
+"Sievertstraße","M"
+"Silberbergweg",NA
+"Silberstraße",NA
+"Silurweg",NA
+"Simrockstraße","M"
+"Sintenisweg","W"
+"Skagenhof",NA
+"Skorpiongasse",NA
+"Skywalk (east)",NA
+"Slevogtweg","M"
+"Slicherstraße","M"
+"Smalianwinkel","M"
+"Smetanaweg","M"
+"Sodenstraße",NA
+"Soetbrink",NA
+"Sögeler Straße",NA
+"Sohnreyweg","M"
+"Sohrenkamp",NA
+"Sokelantstraße","M"
+"Sollingstraße",NA
+"Sollingweg",NA
+"Soltauer Straße",NA
+"Solvay-Passage",NA
+"Sommerda",NA
+"Sommerfeldstraße","M"
+"Sommerlindenallee",NA
+"Sonderburger Straße",NA
+"Sonnenallee",NA
+"Sonneneck",NA
+"Sonnenhagen",NA
+"Sonnenschein",NA
+"Sonnenscheinhof","M"
+"Sonnentauweg",NA
+"Sonnenweg",NA
+"Soorenweg",NA
+"Sophie-Küppers-Straße","W"
+"Sophie-Sichart-Weg","W"
+"Sophienkamp","W"
+"Sophienstraße","W"
+"Sorauer Weg",NA
+"Sorgenfrei",NA
+"Sorststraße","M"
+"Sorsumer Straße",NA
+"Söseweg",NA
+"Spangenbergstraße","F"
+"Spannhagengarten",NA
+"Spannhagenstraße",NA
+"Spanuthstraße","M"
+"Spargelstraße",NA
+"Spargelweg",NA
+"Spartanerstraße",NA
+"Spatzen-Allee",NA
+"Spechtgasse",NA
+"Spechtkehre",NA
+"Spengemannweg","M"
+"Sperberweg",NA
+"Sperlingsfeld",NA
+"Sperlingweg",NA
+"Sperlstraße","F"
+"Spessartweg",NA
+"Spichernstraße",NA
+"Spielhagenstraße","M"
+"Spielplatzweg",NA
+"Spierenweg",NA
+"Spilckerstraße","M"
+"Spinnereistraße",NA
+"Spinozastraße","M"
+"Spinozaweg","M"
+"Spittastraße","M"
+"Spitzwegstraße","M"
+"Spitzwegwinkel","M"
+"Spohrstraße","M"
+"Spörckenstraße","M"
+"Sporlederweg","M"
+"Sportplatz am Kanal",NA
+"Spreeweg",NA
+"Springer Straße",NA
+"Springrad",NA
+"St. Michael","M"
+"Staakenweg",NA
+"Staatswiesenstraße",NA
+"Stadionbrücke",NA
+"Stadtbahnhof",NA
+"Stadtfelddamm",NA
+"Stadtparkallee",NA
+"Stadträr",NA
+"Stadtstraße",NA
+"Stadtwaldweg",NA
+"Stadtweg",NA
+"Stahlstraße",NA
+"Stallupöner Weg",NA
+"Stammestraße",NA
+"Ständehausstraße",NA
+"Stanisława-Kamińska-Straße","W"
+"Stänkebühlsgang",NA
+"Stapelweg",NA
+"Staren-Allee",NA
+"Starenweg",NA
+"Stargarder Weg",NA
+"Stärkestraße",NA
+"Staßfurter Straße",NA
+"Statiusweg","M"
+"Stauffenbergplatz","M"
+"Steckerstraße","F"
+"Stedebrink",NA
+"Steffens Hof","F"
+"Steigerstraße",NA
+"Steigertahlstraße","M"
+"Steigerwaldweg",NA
+"Steiler Weg",NA
+"Steimbker Hof",NA
+"Steinberg",NA
+"Steinbergstraße","F"
+"Steinbockgasse",NA
+"Steinbrink",NA
+"Steinbruchstraße",NA
+"Steinfeldstraße",NA
+"Steinhuder Straße",NA
+"Steinkamp",NA
+"Steinkampweg",NA
+"Steinmetzstraße","M"
+"Steinriede",NA
+"Steinstraße",NA
+"Steintorfeldstraße",NA
+"Steintorstraße",NA
+"Steinvorthhof","M"
+"Steinweg",NA
+"Steinworth",NA
+"Stelinger Straße",NA
+"Steller Straße",NA
+"Stellmacherstraße",NA
+"Stemmer Weg",NA
+"Steneltstraße","M"
+"Stenhusenstraße","F"
+"Stensenweg","M"
+"Stéphanie-Kuder-Straße","W"
+"Stephansplatz","M"
+"Stephansruh","M"
+"Stephanusstraße","M"
+"Sternheimweg","M"
+"Sterntalerstraße",NA
+"Sterntalerweg",NA
+"Stettiner Straße",NA
+"Stettiner Weg",NA
+"Steubenweg","M"
+"Steuerndieb",NA
+"Stichbruch",NA
+"Sticksfeld",NA
+"Stiefmütterchenweg",NA
+"Stiegelmeyerstraße","M"
+"Stieglitzgang",NA
+"Stieglitzgasse",NA
+"Stieglitzstraße",NA
+"Stieglitzweg",NA
+"Stiergasse",NA
+"Stiftstraße",NA
+"Stille Straße",NA
+"Stiller Winkel",NA
+"Stilles Tal",NA
+"Stilleweg","M"
+"Stöckener Straße",NA
+"Stockhardtweg","M"
+"Stockholmer Allee",NA
+"Stockmannstraße","M"
+"Stollenweg",NA
+"Stöltinghof","M"
+"Stolzenbergring","W"
+"Stolzestraße","M"
+"Storchenweg",NA
+"Storchenwiese",NA
+"Storchgang",NA
+"Stormstraße","M"
+"Stöttebrügger Straße",NA
+"Stralauweg",NA
+"Stralsunder Straße",NA
+"Strandrose 2",NA
+"Straßburger Platz",NA
+"Straße der Nationen",NA
+"Straußweg",NA
+"Strehlauer Straße",NA
+"Strelitzer Weg",NA
+"Stresemannallee","M"
+"Striehlstraße","M"
+"Strindbergstraße","M"
+"Stromeyerstraße","M"
+"Strousbergstraße","M"
+"Struckmannhof","M"
+"Struckmeyerstraße","F"
+"Struthofstraße","F"
+"Stuckenbrockstieg","M"
+"Stückenfeldstraße",NA
+"Stuckenstraße",NA
+"Stuckestraße","F"
+"Stueckenfeldstraße",NA
+"Stümpkeweg","M"
+"Stünkels Hof",NA
+"Stünkelstraße","F"
+"Stuttgarter Straße",NA
+"Stüvestraße","M"
+"Suderburger Wende",NA
+"Suderloh",NA
+"Sudersenstraße","F"
+"Sudetenstraße",NA
+"Südfeldstraße",NA
+"Südstraße",NA
+"Südstrücken",NA
+"Südwiesenstraße",NA
+"Suerser Weg",NA
+"Sulzbacher Straße",NA
+"Sunderhof",NA
+"Sundernstraße",NA
+"Sündernstraße",NA
+"Sundernweg",NA
+"Süntelstraße",NA
+"Süntelweg",NA
+"Sure Wisch",NA
+"Süßeroder Straße",NA
+"Süßroder Weg",NA
+"Sutelhof",NA
+"Sutelstraße","M"
+"Suthwiesenstraße",NA
+"Suttnerweg","W"
+"Sven-Hedin-Straße","M"
+"Swiss-Life-Platz",NA
+"Sydney Garden",NA
+"Sylter Weg",NA
+"Talaverastraße",NA
+"Talkamp",NA
+"Talstraße",NA
+"Tannenbergallee",NA
+"Tannenbergstraße",NA
+"Tannengrund",NA
+"Tannenstraße",NA
+"Tannenweg",NA
+"Taschenweg",NA
+"Taubengang",NA
+"Taunusweg",NA
+"Tegeler Straße",NA
+"Tegelweg",NA
+"Tegtkamp",NA
+"Tegtmeyerallee","F"
+"Tegtmeyerstraße","M"
+"Teichhöfe",NA
+"Teichhuhnring",NA
+"Teichstraße",NA
+"Teichweg",NA
+"Telemannweg",NA
+"Tempelhofer Straße",NA
+"Tempelhofweg",NA
+"Teplitzer Straße",NA
+"Tessenowweg","M"
+"Tewenberg",NA
+"Tewesweg","M"
+"Thaerstraße","M"
+"Thea-Bähnisch-Weg","W"
+"Theaterstraße",NA
+"Theda-Behme-Straße","W"
+"Theo-Seifer-Straße","M"
+"Theodor-Heuss-Platz","M"
+"Theodor-Heuss-Ring","M"
+"Theodor-Heuss-Straße","M"
+"Theodor-Krüger-Straße","M"
+"Theodor-Lessing-Platz","M"
+"Theodor-Lessing-Ring","M"
+"Theodor-Lessing-Weg","M"
+"Theodor-Oppermann-Weg","M"
+"Theodor-Storm-Straße","M"
+"Theodorstraße","M"
+"Therese-Wittrock-Weg","W"
+"Thie",NA
+"Thielenkamp",NA
+"Thielenplatz","M"
+"Thiemorgen",NA
+"Thieshof","M"
+"Thomas-Mann-Straße","M"
+"Thomas-Mann-Weg","M"
+"Thomastraße","M"
+"Thönser Straße",NA
+"Thorgarten",NA
+"Thorner Straße",NA
+"Thuler Weg",NA
+"Thüringer Straße",NA
+"Thurnithistraße",NA
+"Tieckstraße","M"
+"Tiedgestraße","M"
+"Tiefe Riehe",NA
+"Tiefe Straße",NA
+"Tiefelstraße","M"
+"Tiergartenstraße",NA
+"Tiestestraße","M"
+"Tietlinger Weg",NA
+"Tillystraße","M"
+"Tilsiter Straße",NA
+"Timm-Kröger-Straße","M"
+"Timmendorffstraße","M"
+"Timmerloh",NA
+"Timmermannweg","F"
+"Tintengraben",NA
+"Tischbeinstraße","M"
+"Tischlein Deck Dich Weg",NA
+"Tischlerstraße",NA
+"Tizianstraße","M"
+"Togoweg",NA
+"Tollenbrink",NA
+"Tomatenweg",NA
+"Tonderner Straße",NA
+"Tonkuhle",NA
+"Tonkuhlenweg",NA
+"Tönniesbergkreisel",NA
+"Tönniesrehre",NA
+"Tonstraße",NA
+"Torgarten",NA
+"Torgauer Weg",NA
+"Torstenssonstraße","M"
+"Torstraße",NA
+"Trage",NA
+"Trageweg","F"
+"Trakehnerweg",NA
+"Trammplatz","M"
+"Transformatorweg",NA
+"Trappenkehre",NA
+"Trassenweg",NA
+"Traute-Martin-Weg","W"
+"Trautenauer Hof",NA
+"Treitschkestraße","M"
+"Trennemoor",NA
+"Treppenkamp",NA
+"Treptowweg",NA
+"Tresckowstraße","M"
+"Tribüne",NA
+"Trierer Straße",NA
+"Triftstraße",NA
+"Tripweg","M"
+"Trojanstraße","M"
+"Trollweg",NA
+"Tronjeweg",NA
+"Troschkestraße","M"
+"Troskeweg","M"
+"Tulpenstraße",NA
+"Tulpenweg",NA
+"Tunxdorfer Schleife",NA
+"Türkstraße","F"
+"Turmstraße",NA
+"Twedenweg",NA
+"Tweerbreite",NA
+"Ubbenstraße","F"
+"Über dem Dorfe",NA
+"Über den Beeken",NA
+"Uelzestraße","F"
+"Uferstraße",NA
+"Uferweg",NA
+"Uferzeile",NA
+"Uhdestraße","M"
+"Uhlandstraße","M"
+"Uhlemeyerstraße","M"
+"Uhlenbornstraße",NA
+"Uhlenhuthweg","M"
+"Uhlenkamp",NA
+"Uhlestraße","M"
+"Uhlhornstraße","M"
+"Uhugasse",NA
+"Ulenflucht",NA
+"Ulmenkamp",NA
+"Ulmenstraße",NA
+"Ulmenweg",NA
+"Ulmer Straße",NA
+"Ulrichstraße","M"
+"Ungerstraße","M"
+"Unstrutweg",NA
+"Unter den Bäumchen",NA
+"Unter den Birken",NA
+"Unter den Eichen",NA
+"Unter Uns",NA
+"Untere Reihe",NA
+"Untere Steinbreite",NA
+"Unverzagtweg","M"
+"Urnenfeldstraße",NA
+"Uslarplatz","W"
+"Vahrenwalder Platz",NA
+"Vahrenwalder Straße",NA
+"Valentinweg","M"
+"Van-Gogh-Weg","M"
+"Varrelheide",NA
+"Varrelheidering",NA
+"Varrelmannstraße","M"
+"Vechteweg",NA
+"Veilchenstraße",NA
+"Veilchenweg",NA
+"Velberstraße",NA
+"Velsterstraße",NA
+"Vennweg",NA
+"Venusring",NA
+"Verdener Hof",NA
+"Verdener Platz",NA
+"Verdener Straße",NA
+"Verdistraße",NA
+"Vereinstraße",NA
+"Veronicaweg","W"
+"VHV-Platz",NA
+"Victor-Schulte-Straße","M"
+"Victorine-Endler-Weg","W"
+"Vier Grenzen",NA
+"Viesekenriede",NA
+"Viethhof","M"
+"Viktoria-Luise-Weg","W"
+"Viktoriastraße","W"
+"Vinnhorster Rathausplatz",NA
+"Vinnhorster Straße",NA
+"Vinnhorster Weg",NA
+"Vinzenzstraße","M"
+"Virchowstraße","M"
+"Virchowweg","M"
+"Vivaldistraße","M"
+"Vogelsang","M"
+"Vogelsangstraße","M"
+"Vogelsbergstraße",NA
+"Vogesort",NA
+"Vogtländer Hof",NA
+"Voigtwiese",NA
+"Voigtwiesen",NA
+"Völgerstraße","M"
+"Volgersweg","M"
+"Völklinger Straße",NA
+"Voltastraße","M"
+"Voltmerstraße","F"
+"Von-Alten-Allee","F"
+"Von-Cramm-Weg","M"
+"Von-der-Decken-Straße","M"
+"Von-Escherte-Straße","F"
+"Von-Graevemeyer-Weg","F"
+"Von-Lenthe-Allee","M"
+"Von-Roden-Weg","M"
+"Vor dem alten Kampe",NA
+"Vor dem Nordwald",NA
+"Vor dem Rohre",NA
+"Vor den Gärten",NA
+"Vor den Heistern",NA
+"Vor den Kämpen",NA
+"Vor der Kornhast",NA
+"Vor der Seelhorst",NA
+"Vordere Schöneworth",NA
+"Vorm Dorfe",NA
+"Vormbrockweg","M"
+"Vosskamp",NA
+"Voßstraße","M"
+"Vreesweg",NA
+"VW Mittelstraße",NA
+"VW Nordstraße",NA
+"VW Oststraße",NA
+"VW Südstraße (Bernd Wiedemann Allee)",NA
+"VW Weststraße",NA
+"Wacholdergrund",NA
+"Wacholderweg",NA
+"Wachtelsteig",NA
+"Wachtelstieg",NA
+"Wachtelweg",NA
+"Wackenroderstraße","M"
+"Wagenerstraße","M"
+"Wagenfeldstraße","M"
+"Waggumer Hof",NA
+"Wagnerstraße",NA
+"Wagnerweg",NA
+"Waidmannsweg",NA
+"Waldchaussee",NA
+"Waldenburger Weg",NA
+"Walderseestraße","M"
+"Waldhausenstraße",NA
+"Waldheimstraße",NA
+"Waldkauzweg",NA
+"Waldmeisterweg",NA
+"Waldparkplatz",NA
+"Waldstraße",NA
+"Waldweg",NA
+"Wallbrink",NA
+"Wallensteinstraße","M"
+"Wallmodenstraße","F"
+"Walsroder Straße",NA
+"Walter-Ballhause-Straße","M"
+"Walter-Bruch-Straße","M"
+"Walter-Clemens-Platz","M"
+"Walter-Flex-Straße","M"
+"Walter-Gieseking-Straße","M"
+"Walter-Großmann-Weg","M"
+"Walter-Koch-Straße","M"
+"Walter-Raap-Weg","M"
+"Walter-Wülfing-Ufer","M"
+"Wangenheimstraße","F"
+"Wanneweg",NA
+"Warburghof","M"
+"Warmbüchenkamp",NA
+"Warmbüchenstraße",NA
+"Warnemünder Weg",NA
+"Warstraße",NA
+"Wartburgstraße",NA
+"Warteschlange Bootsfahrt",NA
+"Wartheweg",NA
+"Washingtonweg","M"
+"Wasseler Straße",NA
+"Wasserfehdeweg",NA
+"Wasserfurche",NA
+"Wasserkampstraße",NA
+"Wasserweg",NA
+"Waßmannstraße",NA
+"Waterloostraße",NA
+"Weberstraße","M"
+"Weberweg",NA
+"Weckenstraße","M"
+"Weddigenufer","M"
+"Wedekindstraße","M"
+"Wedekinweg",NA
+"Wedelstraße","M"
+"Wedemarkhof",NA
+"Wedemeyerstraße","M"
+"Weetzener Landstraße",NA
+"Weetzener Straße",NA
+"Weetzer Kirchweg",NA
+"Wefelsestraße",NA
+"Weg 1",NA
+"Weg 2",NA
+"Weg 3",NA
+"Wegahof",NA
+"Wegenerstraße","M"
+"Wegerichtrift",NA
+"Wegsfeld",NA
+"Wegsfeldhof",NA
+"Wehrhahnhof","M"
+"Wehrleweg","M"
+"Weichselstraße",NA
+"Weidemannweg","M"
+"Weidenbruch",NA
+"Weidendamm",NA
+"Weidengasse",NA
+"Weidengrund",NA
+"Weidengrundbrücke",NA
+"Weidenkamp",NA
+"Weidenpescher Straße",NA
+"Weidenstraße",NA
+"Weidenweg",NA
+"Weidestraße",NA
+"Weidetorkreisel",NA
+"Weidetorstraße",NA
+"Weideweg",NA
+"Weidewinkel",NA
+"Weidkämpe",NA
+"Weidkampshaide",NA
+"Weimarer Allee",NA
+"Weimarer Straße",NA
+"Weinkampswende",NA
+"Weinschenkweg",NA
+"Weinstraße","M"
+"Weirauchstraße","M"
+"Weiserweg","M"
+"Weißdornallee",NA
+"Weißdornweg",NA
+"Weiße Erde",NA
+"Weiße Hube",NA
+"Weiße Rose",NA
+"Weißekreuzstraße",NA
+"Weißenburgstraße",NA
+"Weißer Brink",NA
+"Weißer Kamp",NA
+"Weißer Weg",NA
+"Weistfeld",NA
+"Weitzgarten","M"
+"Weizenfeldstraße",NA
+"Weizenkamp",NA
+"Welfengarten","F"
+"Welfenstraße","F"
+"Welkersdorfer Weg",NA
+"Wellingtonweg","M"
+"Weltausstellungsallee",NA
+"Wendehagen",NA
+"Wenderoder Weg",NA
+"Wendersche Goge",NA
+"Wendlandstraße","M"
+"Wennigser Straße",NA
+"Werderstraße","M"
+"Werfelstraße","M"
+"Werftstraße",NA
+"Werlhofstraße",NA
+"Werlhofweg","M"
+"Werner-Blumenberg-Weg","M"
+"Werner-Kraft-Straße","M"
+"Werner-von-Siemens-Straße","M"
+"Wernerstraße","M"
+"Wernigeroder Weg",NA
+"Werrastraße",NA
+"Wesenerweg","M"
+"Weserstraße",NA
+"Weserweg",NA
+"Wespyhof","M"
+"Wesselstraße","W"
+"Westerfelder Weg",NA
+"Westerfeldstraße",NA
+"Westermannweg","M"
+"Westerriede",NA
+"Westerwaldstraße",NA
+"Westerwinkel",NA
+"Westfalenhof",NA
+"Westfalenstraße",NA
+"Westphalweg","M"
+"Westpreußenstraße",NA
+"Westpreußenufer",NA
+"Westschnellweg",NA
+"Weststraße",NA
+"Wettberger Edelhof",NA
+"Wettberger Straße",NA
+"Wettinerweg",NA
+"Wichernstraße","M"
+"Wichmannstraße","M"
+"Wickenweg",NA
+"Widdergasse",NA
+"Widemannstraße","F"
+"Wiedenlohe",NA
+"Wiedholz",NA
+"Wiehbergpark",NA
+"Wiehbergstraße",NA
+"Wiehegrund",NA
+"Wiehenweg",NA
+"Wielandstraße","M"
+"Wiener Straße",NA
+"Wienhauser Wende",NA
+"Wieselpfad",NA
+"Wieselweg",NA
+"Wiesenauer Straße",NA
+"Wiesengrund",NA
+"Wiesenrain",NA
+"Wiesenstraße",NA
+"Wiesenweg",NA
+"Wietzeaue",NA
+"Wietzegraben",NA
+"Wietzegrund",NA
+"Wietzendiek",NA
+"Wietzeufer",NA
+"Wildenbruchstraße","M"
+"Wildthagenweg","F"
+"Wildwechsel",NA
+"Wilhelm-Bluhm-Straße","M"
+"Wilhelm-Bünte-Straße","M"
+"Wilhelm-Busch-Straße","M"
+"Wilhelm-Göhrs-Straße","M"
+"Wilhelm-Hahn-Weg","M"
+"Wilhelm-Henze-Straße","M"
+"Wilhelm-Hirte-Straße","M"
+"Wilhelm-Humbeck-Straße","M"
+"Wilhelm-Kröger-Weg","M"
+"Wilhelm-Malsch-Weg","M"
+"Wilhelm-Patsche-Winkel","M"
+"Wilhelm-Raabe-Straße","M"
+"Wilhelm-Raabe-Weg","M"
+"Wilhelm-Reime-Straße","M"
+"Wilhelm-Röntgen-Straße","M"
+"Wilhelm-Tell-Straße","M"
+"Wilhelmine-Witte-Straße","W"
+"Wilhelmshavener Straße",NA
+"Wilhelmstraße","M"
+"Wilkenburger Straße",NA
+"Wilkeningstraße",NA
+"Wilksheide",NA
+"Willestraße","W"
+"Willführstraße","F"
+"Willi-Blume-Allee","M"
+"Willi-Bock-Straße","M"
+"Willmerstraße","M"
+"Willy-Brandt-Allee","M"
+"Willy-Wendt-Weg","M"
+"Willy-Wissiak-Winkel","M"
+"Wilma-Conradi-Weg","W"
+"Wilmersdorfweg",NA
+"Wilseder Weg",NA
+"Windausstraße","M"
+"Windelerstraße",NA
+"Windheimstraße","F"
+"Windhorstweg",NA
+"Windhukstraße",NA
+"Windkamp",NA
+"Windmühlenstraße",NA
+"Windröschenweg",NA
+"Windthorststraße","M"
+"Winkelriede",NA
+"Winkelstraße",NA
+"Winkelweg",NA
+"Winsener Straße",NA
+"Winterstraße",NA
+"Winzingerodeweg","F"
+"Wipperweg",NA
+"Wischkämpe",NA
+"Wismarer Straße",NA
+"Wißmannstraße","M"
+"Wittboldstraße","M"
+"Wittbusch",NA
+"Wittekamp",NA
+"Wittekindstraße","M"
+"Wittenberger Straße",NA
+"Wittenbergpark",NA
+"Wittinger Straße",NA
+"Witzendorffstraße","M"
+"Witzlebenweg","M"
+"Woermannstraße",NA
+"Wohlenbergstraße","M"
+"Wöhlerstraße","F"
+"Wohnpark Wettbergen",NA
+"Woldstedthof",NA
+"Wolfenbütteler Straße",NA
+"Wolfsburger Damm",NA
+"Wolfskuhle",NA
+"Wolfstraße","M"
+"Wolkerhof","M"
+"Wollgrasweg",NA
+"Wolliner Weg",NA
+"Wollkämmerei",NA
+"Wollweg",NA
+"Woltmannweg","M"
+"Wörthstraße",NA
+"Wredestraße","M"
+"Wreschener Allee",NA
+"Wülfeler Bruch",NA
+"Wülfeler Straße",NA
+"Wülferoder Platz",NA
+"Wülferoder Straße",NA
+"Wülferoder Weg",NA
+"Wulfeshorn","M"
+"Wulfspark","F"
+"Wullanger",NA
+"Wümmehof",NA
+"Wundramstraße",NA
+"Wunstorfer Landstraße",NA
+"Wunstorfer Straße",NA
+"Wurmbergweg",NA
+"Würzburger Straße",NA
+"Yorckstraße","M"
+"Yvetotstraße",NA
+"Yvette-Amiot-Weg","W"
+"Yvonne-Georgi-Allee","W"
+"Zaunkönigweg",NA
+"Zehlendorfweg",NA
+"Zehntweg",NA
+"Zeisigstraße",NA
+"Zeisigweg",NA
+"Zeißstraße","M"
+"Zellerfelder Allee",NA
+"Zeppelinstraße","M"
+"Ziegeleistraße",NA
+"Ziegelstraße",NA
+"Zieglerhof","M"
+"Ziesenißstraße","M"
+"Ziesenisweg","M"
+"Ziesingweg","M"
+"Zietenstraße","M"
+"Zigelskyweg",NA
+"Zikadenweg",NA
+"Zilleweg","M"
+"Zimmermannstraße","M"
+"Zittauer Hof",NA
+"Zobtenweg",NA
+"Zu den Mergelbrüchen",NA
+"Zu den Mühlen",NA
+"Zu den Schwedenhäusern",NA
+"Zuckmayerstraße","M"
+"Zufahrt für Bestattungsunternehmen",NA
+"Zufahrt zur gynäkologischen Notaufnahme",NA
+"Zugang zu den Sporthallen der IGS-Südstadt",NA
+"Zugang zum Kleingartenverein Silberborn",NA
+"Zum Alten Garten",NA
+"Zum Brookland",NA
+"Zum Brunnenhof",NA
+"Zum Buchengarten",NA
+"Zum Fugenwinkel",NA
+"Zum Großen Freien",NA
+"Zum Mühlenberg",NA
+"Zum Paradies",NA
+"Zum Schleusengrund",NA
+"Zum Siemenshop",NA
+"Zum Sportplatz",NA
+"Zum Steinkreis",NA
+"Zum stillen Winkel",NA
+"Zum Wald",NA
+"Zum Waldteich",NA
+"Zum Wiehegraben",NA
+"Zur Alten Schmiede",NA
+"Zur Bettfedernfabrik",NA
+"Zur guten Hoffnung",NA
+"Zur Hahnmühle",NA
+"Zur Hindenburgschleuse","M"
+"Zur Mühle",NA
+"Zur Schwanenburg",NA
+"Zur Stadtgärtnerei",NA
+"Zur Sternwarte",NA
+"Zur Tanne",NA
+"Zur Wasserstadt",NA
+"Zuschlagstraße",NA
+"Zweibrückener Straße",NA
+"Zwickauer Straße",NA
+"Zwinglistraße","M"
